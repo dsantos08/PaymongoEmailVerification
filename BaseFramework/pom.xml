@@ -218,12 +218,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.apache.pdfbox</groupId>
-			<artifactId>pdfbox</artifactId>
-			<version>1.8.13</version>
-		</dependency>
-
-		<dependency>
 			<groupId>com.jcraft</groupId>
 			<artifactId>jsch</artifactId>
 			<version>0.1.54</version>
@@ -423,7 +417,6 @@
 				<configuration>
 					<excludes>
 						<exclude>mysql:mysql-connector-java</exclude>
-						<exclude>org.apache.pdfbox:pdfbox</exclude>
 					</excludes>
 				</configuration>
 			</plugin>

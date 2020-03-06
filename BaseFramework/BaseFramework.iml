@@ -99,7 +99,10 @@
     <orderEntry type="library" name="Maven: org.apache.james:apache-mime4j-dom:0.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.14" level="project" />
     <orderEntry type="library" name="Maven: org.tukaani:xz:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox:2.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.pdfbox:fontbox:2.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox-tools:2.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.pdfbox:jempbox:1.8.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-scratchpad:3.17" level="project" />
     <orderEntry type="library" name="Maven: org.ccil.cowan.tagsoup:tagsoup:1.2.1" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.mp4parser:isoparser:1.1.18" level="project" />
@@ -176,9 +179,6 @@
     <orderEntry type="library" name="Maven: org.apache.jmeter:ApacheJMeter_http:4.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.jmeter:jorphan:4.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.jmeter:ApacheJMeter_components:4.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox:1.8.13" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.pdfbox:fontbox:1.8.13" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.pdfbox:jempbox:1.8.13" level="project" />
     <orderEntry type="library" name="Maven: com.jcraft:jsch:0.1.54" level="project" />
     <orderEntry type="library" name="Maven: net.sf.opencsv:opencsv:2.3" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.6.0" level="project" />
