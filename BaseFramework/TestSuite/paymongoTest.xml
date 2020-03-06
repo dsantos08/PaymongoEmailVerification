@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Paymongo Suite">
+  <test name="PaymongoSignupTest">
+    <classes>
+      <class name="com.paymongo.tests.PaymongoSignupTest"></class>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
+
+	

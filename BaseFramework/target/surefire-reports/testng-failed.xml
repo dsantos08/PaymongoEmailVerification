@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Edukasyon Suite]">
+  <test name="test1(failed)">
+    <classes>
+      <class name="com.clock.SalariumClockInAndOut">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="populateFields"/>
+        </methods>
+      </class> <!-- com.clock.SalariumClockInAndOut -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [Edukasyon Suite] -->

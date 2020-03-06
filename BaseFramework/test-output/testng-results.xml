@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[Log:] Start automation test in chrome with Dimensions: (1936, 1056)]]>
+    </line>
+    <line>
+      <![CDATA[[Story Name] Booking Functionality]]>
+    </line>
+    <line>
+      <![CDATA[[Test Script Name] Registered user book a flight]]>
+    </line>
+    <line>
+      <![CDATA[[Test Script Description] Book a flight with registered user and valid user information]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] User Name TextBox is populated with 'john']]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Password TextBox is populated with '12345']]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Sign In Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Header Message text is equal to Use our Flight Finder to search for the lowest fare on participating airlines. Once you've booked your flight, don't forget to visit the Mercury Tours Hotel Finder to reserve lodging in your destination city.]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Selected 'Blue Skies Airlines' from Airline ListBox]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Service Class Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Destination text is equal to Acapulco to Acapulco]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Continue Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] First Name TextBox is populated with 'John']]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Last Name TextBox is populated with 'Smith']]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Number TextBox is populated with '1234567890']]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Secure Purchase Button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Secure Purchase Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Flight Confirmation Message text is equal to Your itinerary has been booked!]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Flight Confirmation Message is displayed]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Total Price text is equal to Total Taxes:  $44 USD
+Total Price (including taxes):  $584 USD]]>
+    </line>
+    <line>
+      <![CDATA[[PASSED] Logout Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[[Screenshot:] Passed_bookAFlightWithRegisteredUserAndValidUserInformation_300519152252.png]]>
+    </line>
+    <line>
+      <![CDATA[[Log:] chrome instance closed.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-05-30T07:21:31Z" name="Default suite" finished-at="2019-05-30T07:22:55Z" duration-ms="84134">
+    <groups>
+    </groups>
+    <test started-at="2019-05-30T07:21:31Z" name="Default test" finished-at="2019-05-30T07:22:55Z" duration-ms="84134">
+      <class name="com.seleniumbootcampframework.tests.BookAFlightTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77]" started-at="2019-05-30T15:21:30Z" name="beforeSuite" finished-at="2019-05-30T15:21:31Z" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77]" started-at="2019-05-30T15:21:31Z" name="beforeMethod" finished-at="2019-05-30T15:21:48Z" duration-ms="16870" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.seleniumbootcampframework.tests.BookAFlightTest.bookAFlightWithRegisteredUserAndValidUserInformation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[Log:] Start automation test in chrome with Dimensions: (1936, 1056)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bookAFlightWithRegisteredUserAndValidUserInformation()[pri:0, instance:com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77]" started-at="2019-05-30T15:21:48Z" name="bookAFlightWithRegisteredUserAndValidUserInformation" finished-at="2019-05-30T15:22:51Z" duration-ms="63659" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[Story Name] Booking Functionality]]>
+            </line>
+            <line>
+              <![CDATA[[Test Script Name] Registered user book a flight]]>
+            </line>
+            <line>
+              <![CDATA[[Test Script Description] Book a flight with registered user and valid user information]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] User Name TextBox is populated with 'john']]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Password TextBox is populated with '12345']]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Sign In Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Header Message text is equal to Use our Flight Finder to search for the lowest fare on participating airlines. Once you've booked your flight, don't forget to visit the Mercury Tours Hotel Finder to reserve lodging in your destination city.]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Selected 'Blue Skies Airlines' from Airline ListBox]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Service Class Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Destination text is equal to Acapulco to Acapulco]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Continue Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] First Name TextBox is populated with 'John']]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Last Name TextBox is populated with 'Smith']]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Number TextBox is populated with '1234567890']]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Secure Purchase Button is displayed]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Secure Purchase Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Flight Confirmation Message text is equal to Your itinerary has been booked!]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Flight Confirmation Message is displayed]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Total Price text is equal to Total Taxes:  $44 USD
+Total Price (including taxes):  $584 USD]]>
+            </line>
+            <line>
+              <![CDATA[[PASSED] Logout Button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bookAFlightWithRegisteredUserAndValidUserInformation -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77]" started-at="2019-05-30T15:22:51Z" name="afterMethod" finished-at="2019-05-30T15:22:55Z" duration-ms="3588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bookAFlightWithRegisteredUserAndValidUserInformation status=SUCCESS method=BookAFlightTest.bookAFlightWithRegisteredUserAndValidUserInformation()[pri:0, instance:com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77] output=[Story Name] Booking Functionality]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[Screenshot:] Passed_bookAFlightWithRegisteredUserAndValidUserInformation_300519152252.png]]>
+            </line>
+            <line>
+              <![CDATA[[Log:] chrome instance closed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77]" started-at="2019-05-30T15:22:55Z" name="afterSuite" finished-at="2019-05-30T15:22:56Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.seleniumbootcampframework.tests.BookAFlightTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

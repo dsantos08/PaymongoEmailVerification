@@ -1,0 +1,7 @@
+com\baseframework\tests\EdukasyonFoundation130.class
+com\ateneo\tests\DeliberatorCheck.class
+com\baseframework\tests\EdukasyonTest.class
+com\internships\tests\EdukasyonInternships.class
+com\clock\SalariumClockInAndOut.class
+com\skills\tests\EdukasyonSkillsApplication.class
+com\userprofile\tests\EdukasyonUserProfile.class

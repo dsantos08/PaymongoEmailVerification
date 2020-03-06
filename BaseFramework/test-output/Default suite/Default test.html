@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu May 30 15:21:31 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>84 seconds (84134 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.seleniumbootcampframework.tests.BookAFlightTest.bookAFlightWithRegisteredUserAndValidUserInformation()'><b>bookAFlightWithRegisteredUserAndValidUserInformation</b><br>Test class: com.seleniumbootcampframework.tests.BookAFlightTest<br/>
+<a href="#Output-1591954203" onClick='toggleBox("Output-1591954203", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1591954203" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1591954203">
+[Story Name] Booking Functionality<br/>
+[Test Script Name] Registered user book a flight<br/>
+[Test Script Description] Book a flight with registered user and valid user information<br/>
+[PASSED] User Name TextBox is populated with 'john'<br/>
+[PASSED] Password TextBox is populated with '12345'<br/>
+[PASSED] Sign In Button is clicked<br/>
+[PASSED] Header Message text is equal to Use our Flight Finder to search for the lowest fare on participating airlines. Once you've booked your flight, don't forget to visit the Mercury Tours Hotel Finder to reserve lodging in your destination city.<br/>
+[PASSED] Selected 'Blue Skies Airlines' from Airline ListBox<br/>
+[PASSED] Service Class Button is clicked<br/>
+[PASSED] Destination text is equal to Acapulco to Acapulco<br/>
+[PASSED] Continue Button is clicked<br/>
+[PASSED] First Name TextBox is populated with 'John'<br/>
+[PASSED] Last Name TextBox is populated with 'Smith'<br/>
+[PASSED] Number TextBox is populated with '1234567890'<br/>
+[PASSED] Secure Purchase Button is displayed<br/>
+[PASSED] Secure Purchase Button is clicked<br/>
+[PASSED] Flight Confirmation Message text is equal to Your itinerary has been booked!<br/>
+[PASSED] Flight Confirmation Message is displayed<br/>
+[PASSED] Total Price text is equal to Total Taxes:  $44 USD
+Total Price (including taxes):  $584 USD<br/>
+[PASSED] Logout Button is clicked<br/>
+</div>
+</td>
+<td></td>
+<td>63</td>
+<td>com.seleniumbootcampframework.tests.BookAFlightTest@1da2cb77</td></tr>
+</table><p>
+</body>
+</html>

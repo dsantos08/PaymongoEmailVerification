@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Tests]" parallel="methods">
+  <test name="Sign In Tests(failed)" parallel="methods">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.seleniumbootcampframework.tests.SignInTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="beforeMethod"/>
+          <include name="signInWithUnregisteredUser"/>
+          <include name="afterMethod"/>
+          <include name="signInWithRegisteredUser"/>
+          <include name="successfulScreenshotForFailedTest"/>
+        </methods>
+      </class> <!-- com.seleniumbootcampframework.tests.SignInTest -->
+    </classes>
+  </test> <!-- Sign In Tests(failed) -->
+</suite> <!-- Failed suite [Regression Tests] -->
