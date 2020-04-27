@@ -376,3 +376,489 @@
 2020-03-06 17:49:30 - [PASSED] Account Name TextBox is displayed
 2020-03-06 17:49:30 - [Screenshot:] Passed_verifyEmail_060320174930.png
 2020-03-06 17:49:31 - [Log:] chrome instance closed.
+2020-03-08 15:59:44 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-03-08 15:59:44 - [Screenshot:] Passed_initialize_080320155944.png
+2020-03-08 15:59:49 - [Log:] chrome instance closed.
+2020-03-08 15:59:50 - [Story Name] Verify Login page 2020/03/08 15:59:32
+2020-03-08 15:59:50 - [Test Script Name] Verify that Login page is accessible
+2020-03-08 15:59:50 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-03-08 15:59:50 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-03-08 15:59:52 - [PASSED] Paymongo Logo is displayed
+2020-03-08 15:59:54 - [PASSED] Sign In Text is displayed
+2020-03-08 15:59:57 - [PASSED] Email Address Input TextBox is displayed
+2020-03-08 15:59:59 - [PASSED] Password Input TextBox is displayed
+2020-03-08 16:00:00 - [Screenshot:] Passed_loginPageCheck_080320160000.png
+2020-03-08 16:00:01 - [Log:] chrome instance closed.
+2020-03-08 16:00:01 - [Story Name] Verify Signup 2020/03/08 15:59:32
+2020-03-08 16:00:01 - [Test Script Name] Verify that Signup is working
+2020-03-08 16:00:01 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-03-08 16:00:04 - [PASSED] Signup Text Link is clicked
+2020-03-08 16:00:08 - [PASSED] Email Address Input TextBox is populated with 'asxyfmlq@guerrillamailblock.com'
+2020-03-08 16:00:11 - [PASSED] Name Input TextBox is populated with 'testname'
+2020-03-08 16:00:13 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-03-08 16:00:16 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-03-08 16:00:19 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-03-08 16:00:31 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-03-08 16:00:34 - [PASSED] Submit Sign-up Form Button is clicked
+2020-03-08 16:00:38 - [PASSED] Account Activation Header is displayed
+2020-03-08 16:00:38 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-03-08 16:00:39 - [Screenshot:] Passed_signUp_080320160039.png
+2020-03-08 16:00:40 - [Log:] chrome instance closed.
+2020-03-08 16:00:40 - [Story Name] Verify account verification via Email 2020/03/08 15:59:32
+2020-03-08 16:00:40 - [Test Script Name] Verify that Email verification is working
+2020-03-08 16:00:40 - [Test Script Description] After registration; user receives the account verification email. After opening it the activation page should be displayed.
+2020-03-08 16:00:40 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-03-08 16:01:35 - [PASSED] Activate Your Account Button is displayed
+2020-03-08 16:01:37 - [PASSED] Account Activation Header is displayed
+2020-03-08 16:01:39 - [PASSED] Account Activation Instructions is displayed
+2020-03-08 16:01:42 - [PASSED] Select Business Type ListBox is displayed
+2020-03-08 16:01:44 - [PASSED] Name of Business TextBox is displayed
+2020-03-08 16:01:46 - [PASSED] Paymongo Username or Handle TextBox is displayed
+2020-03-08 16:01:49 - [PASSED] Business Address Field 1 TextBox is displayed
+2020-03-08 16:01:51 - [PASSED] Business Address Field 2 TextBox is displayed
+2020-03-08 16:01:53 - [PASSED] City Field TextBox is displayed
+2020-03-08 16:01:56 - [PASSED] Province Field TextBox is displayed
+2020-03-08 16:01:58 - [PASSED] Zip Code TextBox is displayed
+2020-03-08 16:02:00 - [PASSED] Country ListBox is displayed
+2020-03-08 16:02:03 - [PASSED] Business Category ListBox is displayed
+2020-03-08 16:02:05 - [PASSED] Nature of Business TextBox is displayed
+2020-03-08 16:02:07 - [PASSED] Business URL TextBox is displayed
+2020-03-08 16:02:10 - [PASSED] Bank Information is displayed
+2020-03-08 16:02:12 - [PASSED] Select Bank ListBox is displayed
+2020-03-08 16:02:14 - [PASSED] Account Type ListBox is displayed
+2020-03-08 16:02:17 - [PASSED] Account Number TextBox is displayed
+2020-03-08 16:02:19 - [PASSED] Account Name TextBox is displayed
+2020-03-08 16:02:20 - [Screenshot:] Passed_verifyEmail_080320160220.png
+2020-03-08 16:02:21 - [Log:] chrome instance closed.
+2020-03-10 17:53:41 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-03-10 17:53:41 - [Screenshot:] Passed_initialize_100320175341.png
+2020-03-10 17:53:44 - [Log:] chrome instance closed.
+2020-03-10 17:53:45 - [Story Name] Verify Login page 2020/03/10 17:53:31
+2020-03-10 17:53:45 - [Test Script Name] Verify that Login page is accessible
+2020-03-10 17:53:45 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-03-10 17:53:45 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-03-10 17:53:47 - [PASSED] Paymongo Logo is displayed
+2020-03-10 17:53:49 - [PASSED] Sign In Text is displayed
+2020-03-10 17:53:51 - [PASSED] Email Address Input TextBox is displayed
+2020-03-10 17:53:54 - [PASSED] Password Input TextBox is displayed
+2020-03-10 17:53:54 - [Screenshot:] Passed_loginPageCheck_100320175354.png
+2020-03-10 17:53:54 - [Log:] chrome instance closed.
+2020-03-10 17:53:54 - [Story Name] Verify Signup 2020/03/10 17:53:31
+2020-03-10 17:53:54 - [Test Script Name] Verify that Signup is working
+2020-03-10 17:53:54 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-03-10 17:53:57 - [PASSED] Signup Text Link is clicked
+2020-03-10 17:54:00 - [PASSED] Email Address Input TextBox is populated with 'lbvdxdnc@guerrillamailblock.com'
+2020-03-10 17:54:02 - [PASSED] Name Input TextBox is populated with 'testname'
+2020-03-10 17:54:05 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-03-10 17:54:07 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-03-10 17:54:09 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-03-10 17:54:22 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-03-10 17:54:24 - [PASSED] Submit Sign-up Form Button is clicked
+2020-03-10 17:54:27 - [PASSED] Account Activation Header is displayed
+2020-03-10 17:54:27 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-03-10 17:54:28 - [Screenshot:] Passed_signUp_100320175428.png
+2020-03-10 17:54:28 - [Log:] chrome instance closed.
+2020-03-10 17:54:28 - [Story Name] Verify account verification via Email 2020/03/10 17:53:31
+2020-03-10 17:54:28 - [Test Script Name] Verify that Email verification is working
+2020-03-10 17:54:28 - [Test Script Description] After registration; user receives the account verification email. After opening it the activation page should be displayed.
+2020-03-10 17:54:28 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-03-10 17:55:21 - [PASSED] Activate Your Account Button is displayed
+2020-03-10 17:55:23 - [PASSED] Account Activation Header is displayed
+2020-03-10 17:55:25 - [PASSED] Account Activation Instructions is displayed
+2020-03-10 17:55:27 - [PASSED] Select Business Type ListBox is displayed
+2020-03-10 17:55:30 - [PASSED] Name of Business TextBox is displayed
+2020-03-10 17:55:32 - [PASSED] Paymongo Username or Handle TextBox is displayed
+2020-03-10 17:55:34 - [PASSED] Business Address Field 1 TextBox is displayed
+2020-03-10 17:55:36 - [PASSED] Business Address Field 2 TextBox is displayed
+2020-03-10 17:55:39 - [PASSED] City Field TextBox is displayed
+2020-03-10 17:55:41 - [PASSED] Province Field TextBox is displayed
+2020-03-10 17:55:43 - [PASSED] Zip Code TextBox is displayed
+2020-03-10 17:55:45 - [PASSED] Country ListBox is displayed
+2020-03-10 17:55:48 - [PASSED] Business Category ListBox is displayed
+2020-03-10 17:55:50 - [PASSED] Nature of Business TextBox is displayed
+2020-03-10 17:55:52 - [PASSED] Business URL TextBox is displayed
+2020-03-10 17:55:55 - [PASSED] Bank Information is displayed
+2020-03-10 17:55:57 - [PASSED] Select Bank ListBox is displayed
+2020-03-10 17:55:59 - [PASSED] Account Type ListBox is displayed
+2020-03-10 17:56:01 - [PASSED] Account Number TextBox is displayed
+2020-03-10 17:56:04 - [PASSED] Account Name TextBox is displayed
+2020-03-10 17:56:04 - [Screenshot:] Passed_verifyEmail_100320175604.png
+2020-03-10 17:56:04 - [Log:] chrome instance closed.
+2020-03-16 08:16:20 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-03-16 08:16:20 - [Screenshot:] Passed_initialize_160320081620.png
+2020-03-16 08:16:25 - [Log:] chrome instance closed.
+2020-03-16 08:16:26 - [Story Name] Verify Login page 2020/03/16 08:16:08
+2020-03-16 08:16:26 - [Test Script Name] Verify that Login page is accessible
+2020-03-16 08:16:26 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-03-16 08:16:26 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-03-16 08:16:28 - [PASSED] Paymongo Logo is displayed
+2020-03-16 08:16:30 - [PASSED] Sign In Text is displayed
+2020-03-16 08:16:33 - [PASSED] Email Address Input TextBox is displayed
+2020-03-16 08:16:35 - [PASSED] Password Input TextBox is displayed
+2020-03-16 08:16:35 - [Screenshot:] Passed_loginPageCheck_160320081635.png
+2020-03-16 08:16:36 - [Log:] chrome instance closed.
+2020-03-16 08:16:36 - [Story Name] Verify Signup 2020/03/16 08:16:08
+2020-03-16 08:16:36 - [Test Script Name] Verify that Signup is working
+2020-03-16 08:16:36 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-03-16 08:16:39 - [PASSED] Signup Text Link is clicked
+2020-03-16 08:16:43 - [PASSED] Email Address Input TextBox is populated with 'ngynorke@guerrillamailblock.com'
+2020-03-16 08:16:45 - [PASSED] Name Input TextBox is populated with 'testname'
+2020-03-16 08:16:48 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-03-16 08:16:50 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-03-16 08:16:52 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-03-16 08:17:05 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-03-16 08:17:07 - [PASSED] Submit Sign-up Form Button is clicked
+2020-03-16 08:17:12 - [PASSED] Account Activation Header is displayed
+2020-03-16 08:17:12 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-03-16 08:17:12 - [Screenshot:] Passed_signUp_160320081712.png
+2020-03-16 08:17:13 - [Log:] chrome instance closed.
+2020-03-16 08:17:13 - [Story Name] Verify account verification via Email 2020/03/16 08:16:08
+2020-03-16 08:17:13 - [Test Script Name] Verify that Email verification is working
+2020-03-16 08:17:13 - [Test Script Description] After registration; user receives the account verification email. After opening it the activation page should be displayed.
+2020-03-16 08:17:13 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-03-16 08:18:07 - [PASSED] Activate Your Account Button is displayed
+2020-03-16 08:18:09 - [PASSED] Account Activation Header is displayed
+2020-03-16 08:18:11 - [PASSED] Account Activation Instructions is displayed
+2020-03-16 08:18:14 - [PASSED] Select Business Type ListBox is displayed
+2020-03-16 08:18:16 - [PASSED] Name of Business TextBox is displayed
+2020-03-16 08:18:18 - [PASSED] Paymongo Username or Handle TextBox is displayed
+2020-03-16 08:18:21 - [PASSED] Business Address Field 1 TextBox is displayed
+2020-03-16 08:18:23 - [PASSED] Business Address Field 2 TextBox is displayed
+2020-03-16 08:18:25 - [PASSED] City Field TextBox is displayed
+2020-03-16 08:18:27 - [PASSED] Province Field TextBox is displayed
+2020-03-16 08:18:30 - [PASSED] Zip Code TextBox is displayed
+2020-03-16 08:18:32 - [PASSED] Country ListBox is displayed
+2020-03-16 08:18:34 - [PASSED] Business Category ListBox is displayed
+2020-03-16 08:18:36 - [PASSED] Nature of Business TextBox is displayed
+2020-03-16 08:18:39 - [PASSED] Business URL TextBox is displayed
+2020-03-16 08:18:41 - [PASSED] Bank Information is displayed
+2020-03-16 08:18:43 - [PASSED] Select Bank ListBox is displayed
+2020-03-16 08:18:45 - [PASSED] Account Type ListBox is displayed
+2020-03-16 08:18:48 - [PASSED] Account Number TextBox is displayed
+2020-03-16 08:18:50 - [PASSED] Account Name TextBox is displayed
+2020-03-16 08:18:50 - [Screenshot:] Passed_verifyEmail_160320081850.png
+2020-03-16 08:18:51 - [Log:] chrome instance closed.
+2020-03-16 20:28:17 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-03-16 20:28:17 - [Screenshot:] Passed_initialize_160320202817.png
+2020-03-16 20:28:23 - [Log:] chrome instance closed.
+2020-03-16 20:28:23 - [Story Name] Verify Login page 2020/03/16 20:28:03
+2020-03-16 20:28:23 - [Test Script Name] Verify that Login page is accessible
+2020-03-16 20:28:23 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-03-16 20:28:24 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-03-16 20:28:26 - [PASSED] Paymongo Logo is displayed
+2020-03-16 20:28:28 - [PASSED] Sign In Text is displayed
+2020-03-16 20:28:31 - [PASSED] Email Address Input TextBox is displayed
+2020-03-16 20:28:33 - [PASSED] Password Input TextBox is displayed
+2020-03-16 20:28:33 - [Screenshot:] Passed_loginPageCheck_160320202833.png
+2020-03-16 20:28:34 - [Log:] chrome instance closed.
+2020-03-16 20:28:34 - [Story Name] Verify Signup 2020/03/16 20:28:03
+2020-03-16 20:28:34 - [Test Script Name] Verify that Signup is working
+2020-03-16 20:28:34 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-03-16 20:28:37 - [PASSED] Signup Text Link is clicked
+2020-03-16 20:28:41 - [PASSED] Email Address Input TextBox is populated with 'wmoqzejs@guerrillamailblock.com'
+2020-03-16 20:28:44 - [PASSED] Name Input TextBox is populated with 'testname'
+2020-03-16 20:28:46 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-03-16 20:28:49 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-03-16 20:28:51 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-03-16 20:29:04 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-03-16 20:29:07 - [PASSED] Submit Sign-up Form Button is clicked
+2020-03-16 20:29:11 - [PASSED] Account Activation Header is displayed
+2020-03-16 20:29:11 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-03-16 20:29:12 - [Screenshot:] Passed_signUp_160320202912.png
+2020-03-16 20:29:12 - [Log:] chrome instance closed.
+2020-03-16 20:29:12 - [Story Name] Verify account verification via Email 2020/03/16 20:28:03
+2020-03-16 20:29:12 - [Test Script Name] Verify that Email verification is working
+2020-03-16 20:29:12 - [Test Script Description] After registration; user receives the account verification email. After opening it the activation page should be displayed.
+2020-03-16 20:29:12 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-03-16 20:30:06 - [PASSED] Activate Your Account Button is displayed
+2020-03-16 20:30:08 - [PASSED] Account Activation Header is displayed
+2020-03-16 20:30:11 - [PASSED] Account Activation Instructions is displayed
+2020-03-16 20:30:13 - [PASSED] Select Business Type ListBox is displayed
+2020-03-16 20:30:16 - [PASSED] Name of Business TextBox is displayed
+2020-03-16 20:30:18 - [PASSED] Paymongo Username or Handle TextBox is displayed
+2020-03-16 20:30:28 - [PASSED] Business Address Field 1 TextBox is displayed
+2020-03-16 20:30:41 - [PASSED] Business Address Field 2 TextBox is displayed
+2020-03-16 20:30:53 - [PASSED] City Field TextBox is displayed
+2020-03-16 20:31:06 - [PASSED] Province Field TextBox is displayed
+2020-03-16 20:31:18 - [PASSED] Zip Code TextBox is displayed
+2020-03-16 20:31:30 - [PASSED] Country ListBox is displayed
+2020-03-16 20:31:43 - [PASSED] Business Category ListBox is displayed
+2020-03-16 20:31:55 - [PASSED] Nature of Business TextBox is displayed
+2020-03-16 20:32:08 - [PASSED] Business URL TextBox is displayed
+2020-03-16 20:32:20 - [PASSED] Bank Information is displayed
+2020-03-16 20:32:25 - [PASSED] Select Bank ListBox is displayed
+2020-03-16 20:32:38 - [PASSED] Account Type ListBox is displayed
+2020-03-16 20:32:50 - [PASSED] Account Number TextBox is displayed
+2020-03-16 20:32:53 - [PASSED] Account Name TextBox is displayed
+2020-03-16 20:32:53 - [Screenshot:] Passed_verifyEmail_160320203253.png
+2020-03-16 20:32:55 - [Log:] chrome instance closed.
+2020-03-17 08:46:04 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-03-17 08:46:04 - [Screenshot:] Passed_initialize_170320084604.png
+2020-03-17 08:46:08 - [Log:] chrome instance closed.
+2020-03-17 08:46:09 - [Story Name] Verify Login page 2020/03/17 08:45:50
+2020-03-17 08:46:09 - [Test Script Name] Verify that Login page is accessible
+2020-03-17 08:46:09 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-03-17 08:46:09 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-03-17 08:46:11 - [PASSED] Paymongo Logo is displayed
+2020-03-17 08:46:14 - [PASSED] Sign In Text is displayed
+2020-03-17 08:46:16 - [PASSED] Email Address Input TextBox is displayed
+2020-03-17 08:46:18 - [PASSED] Password Input TextBox is displayed
+2020-03-17 08:46:19 - [Screenshot:] Passed_loginPageCheck_170320084619.png
+2020-03-17 08:46:20 - [Log:] chrome instance closed.
+2020-03-17 08:46:20 - [Story Name] Verify Signup 2020/03/17 08:45:50
+2020-03-17 08:46:20 - [Test Script Name] Verify that Signup is working
+2020-03-17 08:46:20 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-03-17 08:46:22 - [PASSED] Signup Text Link is clicked
+2020-03-17 08:46:26 - [PASSED] Email Address Input TextBox is populated with 'svzuixum@guerrillamailblock.com'
+2020-03-17 08:46:29 - [PASSED] Name Input TextBox is populated with 'testname'
+2020-03-17 08:46:31 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-03-17 08:46:34 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-03-17 08:46:37 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-03-17 08:46:49 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-03-17 08:46:52 - [PASSED] Submit Sign-up Form Button is clicked
+2020-03-17 08:46:56 - [PASSED] Account Activation Header is displayed
+2020-03-17 08:46:56 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-03-17 08:46:58 - [Screenshot:] Passed_signUp_170320084657.png
+2020-03-17 08:46:58 - [Log:] chrome instance closed.
+2020-03-17 08:46:58 - [Story Name] Verify account verification via Email 2020/03/17 08:45:50
+2020-03-17 08:46:58 - [Test Script Name] Verify that Email verification is working
+2020-03-17 08:46:58 - [Test Script Description] After registration; user receives the account verification email. After opening it the activation page should be displayed.
+2020-03-17 08:46:58 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-03-17 08:47:51 - [PASSED] Activate Your Account Button is displayed
+2020-03-17 08:47:54 - [PASSED] Account Activation Header is displayed
+2020-03-17 08:47:56 - [PASSED] Account Activation Instructions is displayed
+2020-03-17 08:47:59 - [PASSED] Select Business Type ListBox is displayed
+2020-03-17 08:48:01 - [PASSED] Name of Business TextBox is displayed
+2020-03-17 08:48:03 - [PASSED] Paymongo Username or Handle TextBox is displayed
+2020-03-17 08:48:06 - [PASSED] Business Address Field 1 TextBox is displayed
+2020-03-17 08:48:08 - [PASSED] Business Address Field 2 TextBox is displayed
+2020-03-17 08:48:10 - [PASSED] City Field TextBox is displayed
+2020-03-17 08:48:13 - [PASSED] Province Field TextBox is displayed
+2020-03-17 08:48:15 - [PASSED] Zip Code TextBox is displayed
+2020-03-17 08:48:17 - [PASSED] Country ListBox is displayed
+2020-03-17 08:48:20 - [PASSED] Business Category ListBox is displayed
+2020-03-17 08:48:22 - [PASSED] Nature of Business TextBox is displayed
+2020-03-17 08:48:25 - [PASSED] Business URL TextBox is displayed
+2020-03-17 08:48:27 - [PASSED] Bank Information is displayed
+2020-03-17 08:48:29 - [PASSED] Select Bank ListBox is displayed
+2020-03-17 08:48:32 - [PASSED] Account Type ListBox is displayed
+2020-03-17 08:48:34 - [PASSED] Account Number TextBox is displayed
+2020-03-17 08:48:36 - [PASSED] Account Name TextBox is displayed
+2020-03-17 08:48:37 - [Screenshot:] Passed_verifyEmail_170320084837.png
+2020-03-17 08:48:38 - [Log:] chrome instance closed.
+2020-03-17 09:04:43 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-03-17 09:04:43 - [Screenshot:] Passed_initialize_170320090443.png
+2020-03-17 09:04:48 - [Log:] chrome instance closed.
+2020-03-17 09:04:49 - [Story Name] Verify Login page 2020/03/17 09:04:29
+2020-03-17 09:04:49 - [Test Script Name] Verify that Login page is accessible
+2020-03-17 09:04:49 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-03-17 09:04:49 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-03-17 09:04:51 - [PASSED] Paymongo Logo is displayed
+2020-03-17 09:04:53 - [PASSED] Sign In Text is displayed
+2020-03-17 09:04:56 - [PASSED] Email Address Input TextBox is displayed
+2020-03-17 09:04:58 - [PASSED] Password Input TextBox is displayed
+2020-03-17 09:04:58 - [Screenshot:] Passed_loginPageCheck_170320090458.png
+2020-03-17 09:04:59 - [Log:] chrome instance closed.
+2020-03-17 09:04:59 - [Story Name] Verify Signup 2020/03/17 09:04:29
+2020-03-17 09:04:59 - [Test Script Name] Verify that Signup is working
+2020-03-17 09:04:59 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-03-17 09:05:02 - [PASSED] Signup Text Link is clicked
+2020-03-17 09:05:06 - [PASSED] Email Address Input TextBox is populated with 'cwambstp@guerrillamailblock.com'
+2020-03-17 09:05:09 - [PASSED] Name Input TextBox is populated with 'testname'
+2020-03-17 09:05:11 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-03-17 09:05:14 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-03-17 09:05:17 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-03-17 09:05:29 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-03-17 09:05:32 - [PASSED] Submit Sign-up Form Button is clicked
+2020-03-17 09:05:38 - [PASSED] Account Activation Header is displayed
+2020-03-17 09:05:38 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-03-17 09:05:38 - [Screenshot:] Passed_signUp_170320090538.png
+2020-03-17 09:05:39 - [Log:] chrome instance closed.
+2020-03-17 09:05:39 - [Story Name] Verify account verification via Email 2020/03/17 09:04:29
+2020-03-17 09:05:39 - [Test Script Name] Verify that Email verification is working
+2020-03-17 09:05:39 - [Test Script Description] After registration; user receives the account verification email. After opening it the activation page should be displayed.
+2020-03-17 09:05:39 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-03-17 09:06:33 - [PASSED] Activate Your Account Button is displayed
+2020-03-17 09:06:36 - [PASSED] Account Activation Header is displayed
+2020-03-17 09:06:38 - [PASSED] Account Activation Instructions is displayed
+2020-03-17 09:06:40 - [PASSED] Select Business Type ListBox is displayed
+2020-03-17 09:06:43 - [PASSED] Name of Business TextBox is displayed
+2020-03-17 09:06:45 - [PASSED] Paymongo Username or Handle TextBox is displayed
+2020-03-17 09:06:58 - [PASSED] Business Address Field 1 TextBox is displayed
+2020-03-17 09:07:00 - [PASSED] Business Address Field 2 TextBox is displayed
+2020-03-17 09:07:02 - [PASSED] City Field TextBox is displayed
+2020-03-17 09:07:05 - [PASSED] Province Field TextBox is displayed
+2020-03-17 09:07:07 - [PASSED] Zip Code TextBox is displayed
+2020-03-17 09:07:09 - [PASSED] Country ListBox is displayed
+2020-03-17 09:07:12 - [PASSED] Business Category ListBox is displayed
+2020-03-17 09:07:14 - [PASSED] Nature of Business TextBox is displayed
+2020-03-17 09:07:16 - [PASSED] Business URL TextBox is displayed
+2020-03-17 09:07:19 - [PASSED] Bank Information is displayed
+2020-03-17 09:07:21 - [PASSED] Select Bank ListBox is displayed
+2020-03-17 09:07:23 - [PASSED] Account Type ListBox is displayed
+2020-03-17 09:07:26 - [PASSED] Account Number TextBox is displayed
+2020-03-17 09:07:28 - [PASSED] Account Name TextBox is displayed
+2020-03-17 09:07:28 - [Screenshot:] Passed_verifyEmail_170320090728.png
+2020-03-17 09:07:29 - [Log:] chrome instance closed.
+2020-04-27 07:14:07 - [Story Name] Test Story Name 2020/04/27 07:14:07
+2020-04-27 07:14:32 - [Story Name] Test Story Name 2020/04/27 07:14:31
+2020-04-27 07:14:32 - [Test Script Name] Test Script Name
+2020-04-27 07:14:32 - [Test Script Description] Test Description
+2020-04-27 07:15:45 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-04-27 07:15:45 - [Screenshot:] Passed_initialize_270420071545.png
+2020-04-27 07:15:48 - [Log:] chrome instance closed.
+2020-04-27 07:15:48 - [Story Name] Test Story Name 2020/04/27 07:15:35
+2020-04-27 07:15:48 - [Test Script Name] Test Script Name
+2020-04-27 07:15:48 - [Test Script Description] Test Description
+2020-04-27 07:15:51 - [Screenshot:] Passed_test1_270420071551.png
+2020-04-27 07:15:52 - [Log:] chrome instance closed.
+2020-04-27 07:15:53 - [Screenshot:] Passed_test2_270420071553.png
+2020-04-27 07:15:53 - [Log:] chrome instance closed.
+2020-04-27 07:15:55 - [Screenshot:] Passed_test3_270420071555.png
+2020-04-27 07:15:56 - [Log:] chrome instance closed.
+2020-04-27 07:15:57 - [Screenshot:] Passed_test4_270420071557.png
+2020-04-27 07:15:58 - [Log:] chrome instance closed.
+2020-04-27 07:16:40 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-04-27 07:16:40 - [Screenshot:] Passed_initialize_270420071640.png
+2020-04-27 07:16:43 - [Log:] chrome instance closed.
+2020-04-27 07:16:43 - [Story Name] Test Story Name 2020/04/27 07:16:29
+2020-04-27 07:16:43 - [Test Script Name] Test Script Name
+2020-04-27 07:16:43 - [Test Script Description] Test Description
+2020-04-27 07:16:46 - [Screenshot:] Passed_test1_270420071646.png
+2020-04-27 07:16:47 - [Log:] chrome instance closed.
+2020-04-27 07:16:48 - [Screenshot:] Passed_test2_270420071648.png
+2020-04-27 07:16:49 - [Log:] chrome instance closed.
+2020-04-27 07:16:50 - [Screenshot:] Passed_test3_270420071650.png
+2020-04-27 07:16:51 - [Log:] chrome instance closed.
+2020-04-27 07:16:52 - [Screenshot:] Failed_test4_270420071652.png
+2020-04-27 07:16:52 - [Log:] chrome instance closed.
+2020-04-27 08:10:58 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-04-27 08:10:58 - [Screenshot:] Passed_initialize_270420081058.png
+2020-04-27 08:11:00 - [Log:] chrome instance closed.
+2020-04-27 08:11:00 - [Story Name] Test Story Name 2020/04/27 08:10:46
+2020-04-27 08:11:00 - [Test Script Name] Test Script Name
+2020-04-27 08:11:00 - [Test Script Description] Test Description
+2020-04-27 08:11:04 - [Screenshot:] Passed_test1_270420081104.png
+2020-04-27 08:11:05 - [Log:] chrome instance closed.
+2020-04-27 08:11:06 - [Screenshot:] Passed_test2_270420081106.png
+2020-04-27 08:11:06 - [Log:] chrome instance closed.
+2020-04-27 08:11:08 - [Screenshot:] Passed_test3_270420081108.png
+2020-04-27 08:11:08 - [Log:] chrome instance closed.
+2020-04-27 08:11:09 - [Screenshot:] Failed_test4_270420081109.png
+2020-04-27 08:11:09 - [Log:] chrome instance closed.
+2020-04-27 08:11:29 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-04-27 08:11:29 - [Screenshot:] Passed_initialize_270420081129.png
+2020-04-27 08:11:31 - [Log:] chrome instance closed.
+2020-04-27 08:11:31 - [Story Name] Test Story Name 2020/04/27 08:11:18
+2020-04-27 08:11:31 - [Test Script Name] Test Script Name
+2020-04-27 08:11:31 - [Test Script Description] Test Description
+2020-04-27 08:11:34 - [Screenshot:] Failed_test1_270420081134.png
+2020-04-27 08:11:34 - [Log:] chrome instance closed.
+2020-04-27 08:11:35 - [Screenshot:] Failed_test2_270420081135.png
+2020-04-27 08:11:35 - [Log:] chrome instance closed.
+2020-04-27 08:11:36 - [Screenshot:] Failed_test3_270420081136.png
+2020-04-27 08:11:37 - [Log:] chrome instance closed.
+2020-04-27 08:11:38 - [Screenshot:] Failed_test4_270420081138.png
+2020-04-27 08:11:38 - [Log:] chrome instance closed.
+2020-04-27 08:22:11 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-04-27 08:22:11 - [Screenshot:] Passed_initialize_270420082211.png
+2020-04-27 08:22:14 - [Log:] chrome instance closed.
+2020-04-27 08:22:14 - [Story Name] Test Story Name 2020/04/27 08:22:00
+2020-04-27 08:22:14 - [Test Script Name] Test Script Name
+2020-04-27 08:22:14 - [Test Script Description] Test Description
+2020-04-27 08:22:17 - [Screenshot:] Passed_test1_270420082217.png
+2020-04-27 08:22:18 - [Log:] chrome instance closed.
+2020-04-27 08:22:19 - [Screenshot:] Passed_test2_270420082219.png
+2020-04-27 08:22:19 - [Log:] chrome instance closed.
+2020-04-27 08:22:21 - [Screenshot:] Passed_test3_270420082221.png
+2020-04-27 08:22:22 - [Log:] chrome instance closed.
+2020-04-27 08:22:23 - [Screenshot:] Failed_test4_270420082223.png
+2020-04-27 08:22:24 - [Log:] chrome instance closed.
+2020-04-27 08:22:49 - [Log:] Start automation test in chrome with Dimensions: (1296, 696)
+2020-04-27 08:22:50 - [Screenshot:] Passed_initialize_270420082250.png
+2020-04-27 08:22:52 - [Log:] chrome instance closed.
+2020-04-27 08:22:52 - [Story Name] Test Story Name 2020/04/27 08:22:38
+2020-04-27 08:22:52 - [Test Script Name] Test Script Name
+2020-04-27 08:22:52 - [Test Script Description] Test Description
+2020-04-27 08:22:56 - [Screenshot:] Passed_test1_270420082256.png
+2020-04-27 08:23:26 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-04-27 08:23:26 - [Screenshot:] Passed_initialize_270420082326.png
+2020-04-27 08:23:31 - [Log:] chrome instance closed.
+2020-04-27 08:23:31 - [Story Name] Test Story Name 2020/04/27 08:23:15
+2020-04-27 08:23:31 - [Test Script Name] Test Script Name
+2020-04-27 08:23:31 - [Test Script Description] Test Description
+2020-04-27 08:23:34 - [Screenshot:] Passed_test1_270420082334.png
+2020-04-27 08:23:34 - [Log:] chrome instance closed.
+2020-04-27 08:23:36 - [Screenshot:] Passed_test2_270420082336.png
+2020-04-27 08:23:36 - [Log:] chrome instance closed.
+2020-04-27 08:23:37 - [Screenshot:] Passed_test3_270420082337.png
+2020-04-27 08:23:38 - [Log:] chrome instance closed.
+2020-04-27 08:23:39 - [Screenshot:] Failed_test4_270420082339.png
+2020-04-27 08:23:40 - [Log:] chrome instance closed.
+2020-04-27 15:05:40 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-04-27 15:05:40 - [Screenshot:] Passed_initialize_270420150540.png
+2020-04-27 15:05:49 - [Log:] chrome instance closed.
+2020-04-27 15:05:49 - [Story Name] Test Story Name 2020/04/27 15:05:29
+2020-04-27 15:05:49 - [Test Script Name] Test Script Name
+2020-04-27 15:05:49 - [Test Script Description] Test Description
+2020-04-27 15:05:51 - [Log:] {"status":"OK","place_id":"9d54fc477e2fa9f1b6e2d54b54902c1b","scope":"APP","reference":"8a2199f03779fe0f773fb1489835dbe68a2199f03779fe0f773fb1489835dbe6","id":"8a2199f03779fe0f773fb1489835dbe6"}
+2020-04-27 15:05:52 - [Screenshot:] Passed_test1_270420150552.png
+2020-04-27 15:05:53 - [Log:] chrome instance closed.
+2020-04-27 15:05:55 - [Log:] {"msg":"Address successfully updated"}
+2020-04-27 15:05:55 - [Screenshot:] Passed_test2_270420150555.png
+2020-04-27 15:05:56 - [Log:] chrome instance closed.
+2020-04-27 15:05:57 - [Log:] {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"TestDom","phone_number":"(+91) 983 893 3937","address":"This is the new address","types":"shoe park,shop","website":"http:\/\/testdom.com","language":"French-IN"}
+2020-04-27 15:05:57 - [Screenshot:] Passed_test3_270420150557.png
+2020-04-27 15:05:58 - [Log:] chrome instance closed.
+2020-04-27 15:06:00 - [Screenshot:] Failed_test4_270420150600.png
+2020-04-27 15:06:00 - [Log:] chrome instance closed.
+2020-04-27 15:26:57 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-04-27 15:26:58 - [Screenshot:] Passed_initialize_270420152658.png
+2020-04-27 15:27:02 - [Log:] chrome instance closed.
+2020-04-27 15:27:02 - [Story Name] Test Story Name 2020/04/27 15:26:47
+2020-04-27 15:27:02 - [Test Script Name] Test Script Name
+2020-04-27 15:27:02 - [Test Script Description] Test Description
+2020-04-27 15:27:05 - [Log:] {"status":"OK","place_id":"794b960cbeaa08662af295a3c689c7db","scope":"APP","reference":"cf8a26cd716afa51c7dad7ca58981c47cf8a26cd716afa51c7dad7ca58981c47","id":"cf8a26cd716afa51c7dad7ca58981c47"}
+2020-04-27 15:27:05 - [PASSED] {"status":"OK","place_id":"794b960cbeaa08662af295a3c689c7db","scope":"APP","reference":"cf8a26cd716afa51c7dad7ca58981c47cf8a26cd716afa51c7dad7ca58981c47","id":"cf8a26cd716afa51c7dad7ca58981c47"}
+2020-04-27 15:27:05 - [Screenshot:] Passed_test1_270420152705.png
+2020-04-27 15:27:06 - [Log:] chrome instance closed.
+2020-04-27 15:27:07 - [Log:] {"msg":"Address successfully updated"}
+2020-04-27 15:27:07 - [Screenshot:] Passed_test2_270420152707.png
+2020-04-27 15:27:08 - [Log:] chrome instance closed.
+2020-04-27 15:27:09 - [Log:] {"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"TestDom","phone_number":"(+91) 983 893 3937","address":"This is the new address","types":"shoe park,shop","website":"http:\/\/testdom.com","language":"French-IN"}
+2020-04-27 15:27:09 - [Screenshot:] Passed_test3_270420152709.png
+2020-04-27 15:27:09 - [Log:] chrome instance closed.
+2020-04-27 15:27:11 - [Screenshot:] Failed_test4_270420152711.png
+2020-04-27 15:27:11 - [Log:] chrome instance closed.
+2020-04-27 15:29:10 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-04-27 15:29:10 - [Screenshot:] Passed_initialize_270420152910.png
+2020-04-27 15:29:13 - [Log:] chrome instance closed.
+2020-04-27 15:29:13 - [Story Name] Test Story Name 2020/04/27 15:28:59
+2020-04-27 15:29:13 - [Test Script Name] Test Script Name
+2020-04-27 15:29:13 - [Test Script Description] Test Description
+2020-04-27 15:29:15 - [Screenshot:] Failed_test1_270420152915.png
+2020-04-27 15:29:15 - [Log:] chrome instance closed.
+2020-04-27 15:29:16 - [Screenshot:] Failed_test2_270420152916.png
+2020-04-27 15:29:16 - [Log:] chrome instance closed.
+2020-04-27 15:29:18 - [Screenshot:] Failed_test3_270420152918.png
+2020-04-27 15:29:18 - [Log:] chrome instance closed.
+2020-04-27 15:29:20 - [Screenshot:] Failed_test4_270420152919.png
+2020-04-27 15:29:20 - [Log:] chrome instance closed.
+2020-04-27 15:30:21 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-04-27 15:30:21 - [Screenshot:] Passed_initialize_270420153021.png
+2020-04-27 15:30:24 - [Log:] chrome instance closed.
+2020-04-27 15:30:24 - [Story Name] Test Story Name 2020/04/27 15:30:10
+2020-04-27 15:30:24 - [Test Script Name] Test Script Name
+2020-04-27 15:30:24 - [Test Script Description] Test Description
+2020-04-27 15:30:26 - [FAILED] Expected: Request successful
+2020-04-27 15:30:26 - [FAILED] Actual: java.lang.AssertionError: 1 expectation failed.
+Expected status code <999> but was <200>.
+
+2020-04-27 15:30:26 - [Screenshot:] Failed_test1_270420153026.png
+2020-04-27 15:30:27 - [Log:] chrome instance closed.
+2020-04-27 15:30:28 - [Screenshot:] Failed_test2_270420153028.png
+2020-04-27 15:30:28 - [Log:] chrome instance closed.
+2020-04-27 15:30:30 - [Screenshot:] Failed_test3_270420153030.png
+2020-04-27 15:30:30 - [Log:] chrome instance closed.
+2020-04-27 15:30:32 - [Screenshot:] Failed_test4_270420153032.png
+2020-04-27 15:30:32 - [Log:] chrome instance closed.

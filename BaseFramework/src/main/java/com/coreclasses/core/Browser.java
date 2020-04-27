@@ -216,7 +216,7 @@ public class Browser {
 			chromeOptions.addArguments("start-maximized");
 			chromeOptions.addArguments("mute-audio");
 			chromeOptions.addArguments("disable-extensions");
-			//chromeOptions.addArguments("headless");
+			chromeOptions.addArguments("headless");
 			chromeOptions.addArguments("disable-gpu");
 			chromeOptions.addArguments("window-size=1600x1200");
 			chromeOptions.addArguments("allow-running-insecure-content");
