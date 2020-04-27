@@ -47,7 +47,7 @@ public class SampleAPITest_TestNG extends Browser {
                             .body(PlacesAPIPayload.AddPlace()) //present in addPlacePayload class
                             .when().post("maps/api/place/add/json")
                             .then().assertThat()
-                            .statusCode(999)
+                            .statusCode(200)
                             .body("scope", equalTo("APP"))
                             .header("server", "Apache/2.4.18 (Ubuntu)")
                             .extract().response().asString(); //Saves the addAddressResponse in a String variable
