@@ -5,16 +5,15 @@ import com.coreclasses.core.Log;
 import com.coreclasses.webelements.*;
 import org.openqa.selenium.By;
 
-import javax.xml.soap.Text;
-
 public class PaymongoSignupPage {
 
     public static class UserInformationSection {
         private static TextBox _emailBox = new TextBox("Email Address Input",By.xpath("//input[@placeholder='juandelacruz@gmail.com']"));
-        private static TextBox _nameBox = new TextBox("Name Input",By.xpath("//input[@placeholder='Juan Dela Cruz']"));
+        private static TextBox _firstName = new TextBox("First Name Input",By.xpath("//input[@placeholder='Juan']"));
+        private static TextBox _lastName = new TextBox("Last Name Input", By.xpath("//input[@placeholder='Dela Cruz']"));
         private static TextBox _contactBox = new TextBox("Contact Number Input", By.xpath("//input[@placeholder='+63 900 123 4567']"));
-        private static TextBox _passwordInput = new TextBox("Password Input", By.xpath("//div[@class='form-row-item left']//input[@class='ant-input ant-input-lg InputComponent']"));
-        private static TextBox _confirmPasswordInput = new TextBox("Confirm Password Input", By.xpath("//div[@class='form-row-item right']//input[@class='ant-input ant-input-lg InputComponent']"));
+        private static TextBox _passwordInput = new TextBox("Password Input", By.xpath("//div[4]//div[1]//div[1]//div[2]//div[1]//span[1]//input[1]"));
+        private static TextBox _confirmPasswordInput = new TextBox("Confirm Password Input", By.xpath("//div[4]//div[2]//div[1]//div[2]//div[1]//span[1]//input[1]"));
         private static CheckBox _termsAndConditions = new CheckBox("Terms and Conditions Checkbox", By.xpath("//input[@class='ant-checkbox-input']"));
         private static Button _submit = new Button("Submit Sign-up Form", By.xpath("//button[@class='ant-btn submit-button ant-btn-primary']"));
 
@@ -22,8 +21,12 @@ public class PaymongoSignupPage {
             _emailBox.setText(i);
         }
 
-        public static void populateName(String i){
-            _nameBox.setText(i);
+        public static void populateFirstName(String i){
+            _firstName.setText(i);
+        }
+
+        public static void populateLastName(String i){
+            _lastName.setText(i);
         }
 
         public static void populateContact(String i){

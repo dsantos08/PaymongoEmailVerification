@@ -204,7 +204,7 @@ public class Browser {
 			if (OSChecker.isWindows()) {
 				driverType = "chromedriver.exe";
 			} else if (OSChecker.isMac()) {
-				driverType = "chromedriver_mac";
+				driverType = "chromedriver_mac.exe";
 			}
 
 			System.setProperty("webdriver.chrome.driver", "src/main/resources/Drivers/" + driverType);

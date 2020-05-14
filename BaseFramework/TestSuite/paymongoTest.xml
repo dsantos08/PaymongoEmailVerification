@@ -3,7 +3,7 @@
 <suite name="Paymongo Suite">
   <test name="PaymongoSignupTest">
     <classes>
-      <class name="com.paymongo.tests.PaymongoSignupTest"></class>
+      <class name="com.paymongo.tests.PaymongoSignUp_HappyPath"></class>
     </classes>
   </test>
 </suite> <!-- Suite -->

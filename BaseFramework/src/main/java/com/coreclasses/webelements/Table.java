@@ -48,6 +48,11 @@ public class Table extends Browser {
 		return tableRows;
 	}
 
+	public List<WebElement> getAllLiElements(){
+		element = Browser.findElement(by);
+		List<WebElement> tableRows = new WebDriverWait(Browser.getDriver(), 10).until(ExpectedConditions.visibilityOfNestedElementsLocatedBy(element, By.tagName("li")));
+		return tableRows;
+	}
 
 	public void clickOnElementViaList(int i, List<WebElement> elements){
 		element = elements.get(i);
@@ -62,7 +67,29 @@ public class Table extends Browser {
 			}
 			wait.ignoring(StaleElementReferenceException.class).until(ExpectedConditions.elementToBeClickable(element));
 			elements.get(i).click();
-			Log.testStep("PASSED", name + " is clicked", name + " is clicked");
+			Log.testStep("PASSED", element.getText() + " is clicked", element.getText() + " is clicked");
+		}
+	}
+
+	public void clickOnElementViaTextFromList(String value, List<WebElement> elements){
+		for (WebElement element_holder : elements){
+			if (element_holder.getText().equals(value)){
+				element = element_holder;
+				break;
+			}
+		}
+		WebDriverWait wait = new WebDriverWait(Browser.getDriver(), 5);
+		if (element == null) {
+			Log.testStep("FAILED", name + " is NOT displayed", name + " is displayed");
+		} else {
+			int count = 0;
+			while (!element.isDisplayed() && count != 5) {
+				delay(1);
+				count++;
+			}
+			wait.ignoring(StaleElementReferenceException.class).until(ExpectedConditions.elementToBeClickable(element));
+			element.click();
+			Log.testStep("PASSED", element.getText() + " is clicked", element.getText() + " is clicked");
 		}
 	}
 
@@ -80,7 +107,7 @@ public class Table extends Browser {
 			wait.ignoring(StaleElementReferenceException.class).until(ExpectedConditions.elementToBeClickable(element));
 			JavascriptExecutor executor = (JavascriptExecutor) Browser.getDriver();
 			executor.executeScript("arguments[0].click();", element);
-			Log.testStep("PASSED", name + " is clicked", name + " is clicked");
+			Log.testStep("PASSED", element.getText() + " is clicked", element.getText() + " is clicked");
 		}
 	}
 

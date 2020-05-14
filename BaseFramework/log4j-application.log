@@ -862,3 +862,912 @@ Expected status code <999> but was <200>.
 2020-04-27 15:30:30 - [Log:] chrome instance closed.
 2020-04-27 15:30:32 - [Screenshot:] Failed_test4_270420153032.png
 2020-04-27 15:30:32 - [Log:] chrome instance closed.
+2020-05-14 11:44:50 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 11:44:50 - [Screenshot:] Passed_initialize_140520114450.png
+2020-05-14 11:44:53 - [Log:] chrome instance closed.
+2020-05-14 11:44:53 - [Story Name] Verify Login page 2020/05/14 11:44:41
+2020-05-14 11:44:53 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 11:44:53 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 11:44:53 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 11:44:56 - [PASSED] Paymongo Logo is displayed
+2020-05-14 11:44:58 - [PASSED] Sign In Text is displayed
+2020-05-14 12:30:40 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 12:30:41 - [Screenshot:] Passed_initialize_140520123041.png
+2020-05-14 12:30:45 - [Log:] chrome instance closed.
+2020-05-14 12:30:46 - [Story Name] Verify Login page 2020/05/14 12:30:32
+2020-05-14 12:30:46 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 12:30:46 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 12:30:46 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 12:30:48 - [PASSED] Paymongo Logo is displayed
+2020-05-14 12:30:50 - [PASSED] Sign In Text is displayed
+2020-05-14 12:30:52 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 12:30:55 - [PASSED] Password Input TextBox is displayed
+2020-05-14 12:30:55 - [Screenshot:] Passed_loginPageCheck_140520123055.png
+2020-05-14 12:30:57 - [Log:] chrome instance closed.
+2020-05-14 12:30:57 - [Story Name] Verify Signup 2020/05/14 12:30:32
+2020-05-14 12:30:57 - [Test Script Name] Verify that Signup is working
+2020-05-14 12:30:57 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 12:30:59 - [PASSED] Signup Text Link is clicked
+2020-05-14 12:31:02 - [PASSED] Email Address Input TextBox is populated with 'DzWQXW@doms.paymongo.net'
+2020-05-14 12:31:14 - [FAILED] Expected: Name Input TextBox is displayed
+2020-05-14 12:31:14 - [FAILED] Actual: Name Input TextBox is NOT displayed
+2020-05-14 12:31:15 - [Screenshot:] Failed_signUp_140520123115.png
+2020-05-14 12:31:16 - [Log:] chrome instance closed.
+2020-05-14 13:28:25 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 13:28:26 - [Screenshot:] Passed_initialize_140520132826.png
+2020-05-14 13:28:29 - [Log:] chrome instance closed.
+2020-05-14 13:28:29 - [Story Name] Verify Signup 2020/05/14 13:28:18
+2020-05-14 13:28:29 - [Test Script Name] Verify that Signup is working
+2020-05-14 13:28:29 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 13:28:32 - [PASSED] Signup Text Link is clicked
+2020-05-14 13:28:34 - [PASSED] Email Address Input TextBox is populated with 'NJTMSy@doms.paymongo.net'
+2020-05-14 13:28:37 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 13:28:39 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 13:28:42 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 13:28:44 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-05-14 13:28:46 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-05-14 13:28:59 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 13:29:17 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 13:29:29 - [FAILED] Expected: Account Activation Header Element is displayed
+2020-05-14 13:29:29 - [FAILED] Actual: Account Activation Header is NOT displayed
+2020-05-14 13:29:30 - [Screenshot:] Failed_signUp_140520132930.png
+2020-05-14 13:29:32 - [Log:] chrome instance closed.
+2020-05-14 13:30:18 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 13:30:18 - [Screenshot:] Passed_initialize_140520133018.png
+2020-05-14 13:30:21 - [Log:] chrome instance closed.
+2020-05-14 13:30:22 - [Story Name] Verify Signup 2020/05/14 13:30:11
+2020-05-14 13:30:22 - [Test Script Name] Verify that Signup is working
+2020-05-14 13:30:22 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 13:30:24 - [PASSED] Signup Text Link is clicked
+2020-05-14 13:30:27 - [PASSED] Email Address Input TextBox is populated with 'Z8nELh@doms.paymongo.net'
+2020-05-14 13:30:29 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 13:30:31 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 13:30:34 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 13:30:36 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-05-14 13:30:39 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-05-14 13:30:51 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 13:30:54 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 13:31:06 - [FAILED] Expected: Account Activation Header Element is displayed
+2020-05-14 13:31:06 - [FAILED] Actual: Account Activation Header is NOT displayed
+2020-05-14 13:31:07 - [Screenshot:] Failed_signUp_140520133107.png
+2020-05-14 13:31:08 - [Log:] chrome instance closed.
+2020-05-14 13:35:39 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 13:35:39 - [Screenshot:] Passed_initialize_140520133539.png
+2020-05-14 13:35:42 - [Log:] chrome instance closed.
+2020-05-14 13:35:43 - [Story Name] Verify Signup 2020/05/14 13:35:31
+2020-05-14 13:35:43 - [Test Script Name] Verify that Signup is working
+2020-05-14 13:35:43 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 13:36:00 - [PASSED] Signup Text Link is clicked
+2020-05-14 13:36:13 - [PASSED] Email Address Input TextBox is populated with 'posUmq@doms.paymongo.net'
+2020-05-14 13:36:26 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 13:36:38 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 13:36:51 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 13:37:03 - [PASSED] Password Input TextBox is populated with 'TestTest123'
+2020-05-14 13:37:16 - [PASSED] Confirm Password Input TextBox is populated with 'TestTest123'
+2020-05-14 13:37:39 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 13:37:56 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 13:37:56 - [FAILED] Expected: Expected URL is dashboard.paymongo.com/activate
+2020-05-14 13:37:56 - [FAILED] Actual: Current URL is https://dashboard.paymongo.com/signup
+2020-05-14 13:37:57 - [Screenshot:] Failed_signUp_140520133757.png
+2020-05-14 13:37:58 - [Log:] chrome instance closed.
+2020-05-14 13:39:32 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 13:39:32 - [Screenshot:] Passed_initialize_140520133932.png
+2020-05-14 13:39:35 - [Log:] chrome instance closed.
+2020-05-14 13:39:35 - [Story Name] Verify Signup Happy Path 2020/05/14 13:39:25
+2020-05-14 13:39:35 - [Test Script Name] Verify that Signup is working
+2020-05-14 13:39:35 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 13:39:38 - [PASSED] Signup Text Link is clicked
+2020-05-14 13:39:40 - [PASSED] Email Address Input TextBox is populated with '8KE2Wy@doms.paymongo.net'
+2020-05-14 13:39:43 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 13:39:45 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 13:39:48 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 13:39:50 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 13:39:52 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 13:40:05 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 13:40:07 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 13:40:08 - [FAILED] Expected: Expected URL is dashboard.paymongo.com/activate
+2020-05-14 13:40:08 - [FAILED] Actual: Current URL is https://dashboard.paymongo.com/signup
+2020-05-14 13:40:09 - [Screenshot:] Failed_signUp_happyPath_140520134009.png
+2020-05-14 13:40:09 - [Log:] chrome instance closed.
+2020-05-14 13:41:30 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 13:41:30 - [Screenshot:] Passed_initialize_140520134130.png
+2020-05-14 13:41:33 - [Log:] chrome instance closed.
+2020-05-14 13:41:33 - [Story Name] Verify Signup Happy Path 2020/05/14 13:41:23
+2020-05-14 13:41:33 - [Test Script Name] Verify that Signup is working
+2020-05-14 13:41:33 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 13:41:36 - [PASSED] Signup Text Link is clicked
+2020-05-14 13:41:38 - [PASSED] Email Address Input TextBox is populated with 'Ya8WiC@doms.paymongo.net'
+2020-05-14 13:41:41 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 13:41:43 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 13:41:45 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 13:41:48 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 13:41:50 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 13:42:03 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 13:42:05 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 13:42:10 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-05-14 13:42:11 - [Screenshot:] Passed_signUp_happyPath_140520134211.png
+2020-05-14 13:42:12 - [Log:] chrome instance closed.
+2020-05-14 14:49:02 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 14:49:03 - [Screenshot:] Passed_initialize_140520144903.png
+2020-05-14 14:49:07 - [Log:] chrome instance closed.
+2020-05-14 14:49:07 - [Story Name] Verify Signup Happy Path 2020/05/14 14:48:55
+2020-05-14 14:49:07 - [Test Script Name] Verify that Signup is working
+2020-05-14 14:49:07 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 14:49:09 - [PASSED] Signup Text Link is clicked
+2020-05-14 14:49:12 - [PASSED] Email Address Input TextBox is populated with 'k5xRAj@doms.paymongo.net'
+2020-05-14 14:49:14 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 14:49:17 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 14:49:19 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 14:49:22 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 14:49:24 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 14:49:37 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 14:49:42 - [FAILED] Expected: Expected URL is dashboard.paymongo.com/activate
+2020-05-14 14:49:42 - [FAILED] Actual: Current URL is https://dashboard.paymongo.com/signup
+2020-05-14 14:49:42 - [Screenshot:] Failed_signUp_happyPath_140520144942.png
+2020-05-14 14:49:43 - [Log:] chrome instance closed.
+2020-05-14 15:09:15 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 15:09:16 - [Screenshot:] Passed_initialize_140520150916.png
+2020-05-14 15:09:19 - [Log:] chrome instance closed.
+2020-05-14 15:09:19 - [Story Name] Verify Login page 2020/05/14 15:09:09
+2020-05-14 15:09:19 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 15:09:19 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 15:09:19 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 15:09:21 - [PASSED] Paymongo Logo is displayed
+2020-05-14 15:09:24 - [PASSED] Sign In Text is displayed
+2020-05-14 15:09:26 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 15:09:28 - [PASSED] Password Input TextBox is displayed
+2020-05-14 15:09:29 - [Screenshot:] Passed_loginPageCheck_140520150929.png
+2020-05-14 15:09:30 - [Log:] chrome instance closed.
+2020-05-14 15:09:30 - [Story Name] Verify Signup Happy Path 2020/05/14 15:09:09
+2020-05-14 15:09:30 - [Test Script Name] Verify that Signup is working
+2020-05-14 15:09:30 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 15:09:32 - [PASSED] Signup Text Link is clicked
+2020-05-14 15:09:35 - [PASSED] Email Address Input TextBox is populated with 'keYKUv@doms.paymongo.net'
+2020-05-14 15:09:37 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 15:09:40 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 15:09:42 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 15:09:45 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 15:09:47 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 15:10:00 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 15:13:16 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 15:13:17 - [Screenshot:] Passed_initialize_140520151317.png
+2020-05-14 15:13:21 - [Log:] chrome instance closed.
+2020-05-14 15:13:21 - [Story Name] Verify Login page 2020/05/14 15:13:10
+2020-05-14 15:13:21 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 15:13:21 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 15:13:21 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 15:13:23 - [PASSED] Paymongo Logo is displayed
+2020-05-14 15:13:26 - [PASSED] Sign In Text is displayed
+2020-05-14 15:13:28 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 15:13:30 - [PASSED] Password Input TextBox is displayed
+2020-05-14 15:13:31 - [Screenshot:] Passed_loginPageCheck_140520151331.png
+2020-05-14 15:13:31 - [Log:] chrome instance closed.
+2020-05-14 15:13:32 - [Story Name] Verify Signup Happy Path 2020/05/14 15:13:10
+2020-05-14 15:13:32 - [Test Script Name] Verify that Signup is working
+2020-05-14 15:13:32 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 15:13:34 - [PASSED] Signup Text Link is clicked
+2020-05-14 15:13:36 - [PASSED] Email Address Input TextBox is populated with '9DgsY2@doms.paymongo.net'
+2020-05-14 15:13:39 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 15:13:41 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 15:13:44 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 15:13:46 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 15:13:49 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 15:14:01 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 15:15:36 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 15:15:37 - [Screenshot:] Passed_initialize_140520151537.png
+2020-05-14 15:15:39 - [Log:] chrome instance closed.
+2020-05-14 15:15:39 - [Story Name] Verify Login page 2020/05/14 15:15:30
+2020-05-14 15:15:39 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 15:15:39 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 15:15:39 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 15:15:42 - [PASSED] Paymongo Logo is displayed
+2020-05-14 15:15:44 - [PASSED] Sign In Text is displayed
+2020-05-14 15:15:46 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 15:15:49 - [PASSED] Password Input TextBox is displayed
+2020-05-14 15:15:49 - [Screenshot:] Passed_loginPageCheck_140520151549.png
+2020-05-14 15:15:50 - [Log:] chrome instance closed.
+2020-05-14 15:15:50 - [Story Name] Verify Signup Happy Path 2020/05/14 15:15:30
+2020-05-14 15:15:50 - [Test Script Name] Verify that Signup is working
+2020-05-14 15:15:50 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 15:15:53 - [PASSED] Signup Text Link is clicked
+2020-05-14 15:15:55 - [PASSED] Email Address Input TextBox is populated with 'dvRFJp@doms.paymongo.net'
+2020-05-14 15:15:58 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 15:16:00 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 15:16:02 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 15:16:05 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 15:16:07 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 15:16:20 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 15:28:32 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 15:28:33 - [Screenshot:] Passed_initialize_140520152833.png
+2020-05-14 15:28:36 - [Log:] chrome instance closed.
+2020-05-14 15:28:36 - [Story Name] Verify Login page 2020/05/14 15:28:26
+2020-05-14 15:28:36 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 15:28:36 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 15:28:37 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 15:28:39 - [PASSED] Paymongo Logo is displayed
+2020-05-14 15:28:41 - [PASSED] Sign In Text is displayed
+2020-05-14 15:28:43 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 15:28:46 - [PASSED] Password Input TextBox is displayed
+2020-05-14 15:28:47 - [Screenshot:] Passed_loginPageCheck_140520152847.png
+2020-05-14 15:28:48 - [Log:] chrome instance closed.
+2020-05-14 15:28:48 - [Story Name] Verify Signup Happy Path 2020/05/14 15:28:26
+2020-05-14 15:28:48 - [Test Script Name] Verify that Signup is working
+2020-05-14 15:28:48 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 15:28:50 - [PASSED] Signup Text Link is clicked
+2020-05-14 15:28:53 - [PASSED] Email Address Input TextBox is populated with '54AvEj@doms.paymongo.net'
+2020-05-14 15:28:55 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 15:28:57 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 15:29:00 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 15:29:02 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 15:29:05 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 15:41:59 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 15:42:00 - [Screenshot:] Passed_initialize_140520154200.png
+2020-05-14 15:42:04 - [Log:] chrome instance closed.
+2020-05-14 15:42:04 - [Story Name] Verify Login page 2020/05/14 15:41:52
+2020-05-14 15:42:04 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 15:42:04 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 15:42:04 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 15:42:07 - [PASSED] Paymongo Logo is displayed
+2020-05-14 15:42:09 - [PASSED] Sign In Text is displayed
+2020-05-14 15:42:11 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 15:42:13 - [PASSED] Password Input TextBox is displayed
+2020-05-14 15:42:14 - [Screenshot:] Passed_loginPageCheck_140520154214.png
+2020-05-14 15:42:15 - [Log:] chrome instance closed.
+2020-05-14 15:42:15 - [Story Name] Verify Signup Happy Path 2020/05/14 15:41:52
+2020-05-14 15:42:15 - [Test Script Name] Verify that Signup is working
+2020-05-14 15:42:15 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 15:42:17 - [PASSED] Signup Text Link is clicked
+2020-05-14 15:42:20 - [PASSED] Email Address Input TextBox is populated with 'z1dOOE@doms.paymongo.net'
+2020-05-14 15:42:23 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 15:42:25 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 15:42:27 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 15:42:30 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 15:42:32 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 15:58:42 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 15:58:43 - [Screenshot:] Passed_initialize_140520155843.png
+2020-05-14 15:58:47 - [Log:] chrome instance closed.
+2020-05-14 15:58:47 - [Story Name] Verify Login page 2020/05/14 15:58:36
+2020-05-14 15:58:47 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 15:58:47 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 15:58:47 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 15:58:49 - [PASSED] Paymongo Logo is displayed
+2020-05-14 15:58:52 - [PASSED] Sign In Text is displayed
+2020-05-14 15:58:54 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 15:58:56 - [PASSED] Password Input TextBox is displayed
+2020-05-14 15:58:57 - [Screenshot:] Passed_loginPageCheck_140520155857.png
+2020-05-14 15:58:58 - [Log:] chrome instance closed.
+2020-05-14 15:58:58 - [Story Name] Verify Signup - Happy Path 2020/05/14 15:58:36
+2020-05-14 15:58:58 - [Test Script Name] Verify that Signup is working
+2020-05-14 15:58:58 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 15:59:00 - [PASSED] Signup Text Link is clicked
+2020-05-14 15:59:03 - [PASSED] Email Address Input TextBox is populated with 'qN0JdG@doms.paymongo.net'
+2020-05-14 15:59:05 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 15:59:08 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 15:59:10 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 15:59:12 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 15:59:15 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 15:59:27 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 16:00:05 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 16:00:05 - [Screenshot:] Passed_initialize_140520160005.png
+2020-05-14 16:00:10 - [Log:] chrome instance closed.
+2020-05-14 16:00:10 - [Story Name] Verify Login page 2020/05/14 15:59:58
+2020-05-14 16:00:10 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 16:00:10 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 16:00:10 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 16:00:13 - [PASSED] Paymongo Logo is displayed
+2020-05-14 16:00:15 - [PASSED] Sign In Text is displayed
+2020-05-14 16:00:17 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 16:00:20 - [PASSED] Password Input TextBox is displayed
+2020-05-14 16:00:20 - [Screenshot:] Passed_loginPageCheck_140520160020.png
+2020-05-14 16:00:21 - [Log:] chrome instance closed.
+2020-05-14 16:00:21 - [Story Name] Verify Signup - Happy Path 2020/05/14 15:59:58
+2020-05-14 16:00:21 - [Test Script Name] Verify that Signup is working
+2020-05-14 16:00:21 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 16:00:24 - [PASSED] Signup Text Link is clicked
+2020-05-14 16:00:27 - [PASSED] Email Address Input TextBox is populated with 'eaP0XI@doms.paymongo.net'
+2020-05-14 16:00:29 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 16:00:31 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 16:00:34 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 16:00:36 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 16:00:39 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 16:00:51 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 16:00:54 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 16:00:59 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-05-14 16:00:59 - [Screenshot:] Passed_signUp_happyPath_140520160059.png
+2020-05-14 16:01:00 - [Log:] chrome instance closed.
+2020-05-14 16:01:00 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 15:59:58
+2020-05-14 16:01:00 - [Test Script Name] Test for now
+2020-05-14 16:01:00 - [Test Script Description] Test for now
+2020-05-14 16:01:00 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-05-14 16:01:32 - [Screenshot:] Passed_verifyKYC_happyPath_140520160132.png
+2020-05-14 16:01:33 - [Log:] chrome instance closed.
+2020-05-14 17:10:24 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 17:10:24 - [Screenshot:] Passed_initialize_140520171024.png
+2020-05-14 17:10:28 - [Log:] chrome instance closed.
+2020-05-14 17:10:28 - [Story Name] Verify Login page 2020/05/14 17:10:17
+2020-05-14 17:10:28 - [Test Script Name] Verify that Login page is accessible
+2020-05-14 17:10:28 - [Test Script Description] Open Login page and verify that it is loading successfully by checking some of the elements
+2020-05-14 17:10:28 - [PASSED] Current URL is https://dashboard.paymongo.com/login
+2020-05-14 17:10:31 - [PASSED] Paymongo Logo is displayed
+2020-05-14 17:10:33 - [PASSED] Sign In Text is displayed
+2020-05-14 17:10:35 - [PASSED] Email Address Input TextBox is displayed
+2020-05-14 17:10:37 - [PASSED] Password Input TextBox is displayed
+2020-05-14 17:10:38 - [Screenshot:] Passed_loginPageCheck_140520171038.png
+2020-05-14 17:10:39 - [Log:] chrome instance closed.
+2020-05-14 17:10:39 - [Story Name] Verify Signup - Happy Path 2020/05/14 17:10:17
+2020-05-14 17:10:39 - [Test Script Name] Verify that Signup is working
+2020-05-14 17:10:39 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 17:10:42 - [PASSED] Signup Text Link is clicked
+2020-05-14 17:10:45 - [PASSED] Email Address Input TextBox is populated with 'z1fFv3@doms.paymongo.net'
+2020-05-14 17:10:47 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 17:10:50 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 17:10:52 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 17:10:54 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 17:10:57 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 17:11:10 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 17:11:12 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 17:11:17 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-05-14 17:11:18 - [Screenshot:] Passed_signUp_happyPath_140520171118.png
+2020-05-14 17:11:18 - [Log:] chrome instance closed.
+2020-05-14 17:11:18 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 17:10:17
+2020-05-14 17:11:18 - [Test Script Name] Test for now
+2020-05-14 17:11:18 - [Test Script Description] Test for now
+2020-05-14 17:11:18 - [Log:] Allow some time for the sending of the confirmation email. This is completely out of the automation's control and therefore will be handled via hard coded sleep.
+2020-05-14 17:12:22 - [PASSED] Account Activation Header is displayed
+2020-05-14 17:12:23 - [Screenshot:] Passed_verifyKYC_happyPath_140520171223.png
+2020-05-14 17:12:24 - [Log:] chrome instance closed.
+2020-05-14 17:37:54 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 17:37:55 - [Screenshot:] Passed_initialize_140520173755.png
+2020-05-14 17:37:58 - [Log:] chrome instance closed.
+2020-05-14 17:37:58 - [Story Name] Verify Signup - Happy Path 2020/05/14 17:37:47
+2020-05-14 17:37:58 - [Test Script Name] Verify that Signup is working
+2020-05-14 17:37:58 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 17:38:01 - [PASSED] Signup Text Link is clicked
+2020-05-14 17:38:04 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 17:38:06 - [PASSED] First Name Input TextBox is populated with 'testname'
+2020-05-14 17:38:08 - [PASSED] Last Name Input TextBox is populated with 'testlastname'
+2020-05-14 17:38:11 - [PASSED] Contact Number Input TextBox is populated with '639988192381'
+2020-05-14 17:38:13 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 17:38:16 - [PASSED] Confirm Password Input TextBox is populated with 'Password123'
+2020-05-14 17:38:29 - [PASSED] Terms and Conditions Checkbox CheckBox value is set to true
+2020-05-14 17:38:31 - [PASSED] Submit Sign-up Form Button is clicked
+2020-05-14 17:38:36 - [PASSED] Current URL is https://dashboard.paymongo.com/activate
+2020-05-14 17:38:37 - [Screenshot:] Passed_signUp_happyPath_140520173837.png
+2020-05-14 17:38:37 - [Log:] chrome instance closed.
+2020-05-14 17:38:37 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 17:37:47
+2020-05-14 17:38:37 - [Test Script Name] Test for now
+2020-05-14 17:38:37 - [Test Script Description] Test for now
+2020-05-14 17:38:37 - [Log:] Allow some time for the sending of the confirmation email.
+2020-05-14 17:39:52 - [PASSED] Account Activation Header is displayed
+2020-05-14 17:40:04 - [Log:] element click intercepted
+2020-05-14 17:40:09 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 17:40:11 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 17:40:12 - [Screenshot:] Passed_verifyKYC_happyPath_140520174012.png
+2020-05-14 17:40:12 - [Log:] chrome instance closed.
+2020-05-14 18:36:08 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:36:08 - [Screenshot:] Passed_initialize_140520183608.png
+2020-05-14 18:36:11 - [Log:] chrome instance closed.
+2020-05-14 18:36:11 - [Story Name] Verify Signup - Happy Path 2020/05/14 18:35:59
+2020-05-14 18:36:11 - [Test Script Name] Verify that Signup is working
+2020-05-14 18:36:11 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 18:36:29 - [PASSED] Signup Text Link is clicked
+2020-05-14 18:36:41 - [FAILED] Expected: Email Address Input TextBox is displayed
+2020-05-14 18:36:41 - [FAILED] Actual: Email Address Input TextBox is NOT displayed
+2020-05-14 18:36:42 - [Screenshot:] Failed_signUp_happyPath_140520183642.png
+2020-05-14 18:36:42 - [Log:] chrome instance closed.
+2020-05-14 18:36:42 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:35:59
+2020-05-14 18:36:42 - [Test Script Name] Test for now
+2020-05-14 18:36:42 - [Test Script Description] Test for now
+2020-05-14 18:36:55 - [FAILED] Expected: Account Activation Header Element is displayed
+2020-05-14 18:36:55 - [FAILED] Actual: Account Activation Header is NOT displayed
+2020-05-14 18:36:56 - [Screenshot:] Failed_verifyKYC_happyPath_140520183656.png
+2020-05-14 18:36:56 - [Log:] chrome instance closed.
+2020-05-14 18:37:38 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:37:39 - [Screenshot:] Passed_initialize_140520183739.png
+2020-05-14 18:37:41 - [Log:] chrome instance closed.
+2020-05-14 18:37:41 - [Story Name] Verify Signup - Happy Path 2020/05/14 18:37:31
+2020-05-14 18:37:41 - [Test Script Name] Verify that Signup is working
+2020-05-14 18:37:41 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 18:37:44 - [PASSED] Signup Text Link is clicked
+2020-05-14 18:38:11 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:38:11 - [Screenshot:] Passed_initialize_140520183811.png
+2020-05-14 18:38:14 - [Log:] chrome instance closed.
+2020-05-14 18:38:14 - [Story Name] Verify Signup - Happy Path 2020/05/14 18:38:04
+2020-05-14 18:38:14 - [Test Script Name] Verify that Signup is working
+2020-05-14 18:38:14 - [Test Script Description] Check to see that user is able to populate the Sign-in fields and register successfully.
+2020-05-14 18:38:17 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:38:19 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:38:21 - [PASSED] Sign In Button is clicked
+2020-05-14 18:38:22 - [Screenshot:] Passed_signUp_happyPath_140520183822.png
+2020-05-14 18:38:23 - [Log:] chrome instance closed.
+2020-05-14 18:38:23 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:38:04
+2020-05-14 18:38:23 - [Test Script Name] Test for now
+2020-05-14 18:38:23 - [Test Script Description] Test for now
+2020-05-14 18:38:36 - [FAILED] Expected: Account Activation Header Element is displayed
+2020-05-14 18:38:36 - [FAILED] Actual: Account Activation Header is NOT displayed
+2020-05-14 18:38:36 - [Screenshot:] Failed_verifyKYC_happyPath_140520183836.png
+2020-05-14 18:38:37 - [Log:] chrome instance closed.
+2020-05-14 18:39:23 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:39:24 - [Screenshot:] Passed_initialize_140520183924.png
+2020-05-14 18:39:27 - [Log:] chrome instance closed.
+2020-05-14 18:39:27 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:39:16
+2020-05-14 18:39:27 - [Test Script Name] Test for now
+2020-05-14 18:39:27 - [Test Script Description] Test for now
+2020-05-14 18:39:30 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:39:33 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:39:35 - [PASSED] Sign In Button is clicked
+2020-05-14 18:40:00 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:40:00 - [Screenshot:] Passed_initialize_140520184000.png
+2020-05-14 18:40:03 - [Log:] chrome instance closed.
+2020-05-14 18:40:03 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:39:53
+2020-05-14 18:40:03 - [Test Script Name] Test for now
+2020-05-14 18:40:03 - [Test Script Description] Test for now
+2020-05-14 18:40:11 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:40:13 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:40:15 - [Log:] null
+2020-05-14 18:40:36 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:40:36 - [Screenshot:] Passed_initialize_140520184036.png
+2020-05-14 18:40:39 - [Log:] chrome instance closed.
+2020-05-14 18:40:40 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:40:29
+2020-05-14 18:40:40 - [Test Script Name] Test for now
+2020-05-14 18:40:40 - [Test Script Description] Test for now
+2020-05-14 18:40:42 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:40:45 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:40:47 - [PASSED] Sign In Button is clicked
+2020-05-14 18:40:52 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:40:54 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 18:40:57 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 18:41:00 - [Screenshot:] Passed_verifyKYC_happyPath_140520184100.png
+2020-05-14 18:41:00 - [Log:] chrome instance closed.
+2020-05-14 18:41:31 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:41:31 - [Screenshot:] Passed_initialize_140520184131.png
+2020-05-14 18:41:34 - [Log:] chrome instance closed.
+2020-05-14 18:41:34 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:41:24
+2020-05-14 18:41:34 - [Test Script Name] Test for now
+2020-05-14 18:41:34 - [Test Script Description] Test for now
+2020-05-14 18:41:37 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:41:39 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:41:41 - [PASSED] Sign In Button is clicked
+2020-05-14 18:41:46 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:41:49 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 18:41:51 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 18:41:56 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:41:56 - [Screenshot:] Passed_verifyKYC_happyPath_140520184156.png
+2020-05-14 18:41:57 - [Log:] chrome instance closed.
+2020-05-14 18:47:19 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:47:20 - [Screenshot:] Passed_initialize_140520184720.png
+2020-05-14 18:47:23 - [Log:] chrome instance closed.
+2020-05-14 18:47:23 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:47:12
+2020-05-14 18:47:23 - [Test Script Name] Test for now
+2020-05-14 18:47:23 - [Test Script Description] Test for now
+2020-05-14 18:47:36 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:47:48 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:48:06 - [PASSED] Sign In Button is clicked
+2020-05-14 18:48:22 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:48:40 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 18:48:52 - [FAILED] Expected: Date Picker Input TextBox is displayed
+2020-05-14 18:48:52 - [FAILED] Actual: Date Picker Input TextBox is NOT displayed
+2020-05-14 18:48:53 - [Screenshot:] Failed_verifyKYC_happyPath_140520184853.png
+2020-05-14 18:48:53 - [Log:] chrome instance closed.
+2020-05-14 18:49:58 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:49:58 - [Screenshot:] Passed_initialize_140520184958.png
+2020-05-14 18:50:01 - [Log:] chrome instance closed.
+2020-05-14 18:50:02 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:49:51
+2020-05-14 18:50:02 - [Test Script Name] Test for now
+2020-05-14 18:50:02 - [Test Script Description] Test for now
+2020-05-14 18:50:04 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:50:07 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:50:09 - [PASSED] Sign In Button is clicked
+2020-05-14 18:50:14 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:50:16 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 18:50:19 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 18:50:21 - [Screenshot:] Failed_verifyKYC_happyPath_140520185021.png
+2020-05-14 18:50:22 - [Log:] chrome instance closed.
+2020-05-14 18:51:50 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:51:51 - [Screenshot:] Passed_initialize_140520185151.png
+2020-05-14 18:51:53 - [Log:] chrome instance closed.
+2020-05-14 18:51:54 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:51:43
+2020-05-14 18:51:54 - [Test Script Name] Test for now
+2020-05-14 18:51:54 - [Test Script Description] Test for now
+2020-05-14 18:51:56 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:51:59 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:52:01 - [PASSED] Sign In Button is clicked
+2020-05-14 18:52:06 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:52:08 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 18:52:11 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 18:52:13 - [Screenshot:] Failed_verifyKYC_happyPath_140520185213.png
+2020-05-14 18:52:14 - [Log:] chrome instance closed.
+2020-05-14 18:55:12 - [Log:] Start automation test in chrome with Dimensions: (1200, 782)
+2020-05-14 18:55:12 - [Screenshot:] Passed_initialize_140520185512.png
+2020-05-14 18:55:15 - [Log:] chrome instance closed.
+2020-05-14 18:55:15 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 18:55:04
+2020-05-14 18:55:15 - [Test Script Name] Test for now
+2020-05-14 18:55:15 - [Test Script Description] Test for now
+2020-05-14 18:55:18 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 18:55:20 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 18:55:22 - [PASSED] Sign In Button is clicked
+2020-05-14 18:55:27 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:55:30 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 18:55:32 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 18:55:37 - [PASSED] Account Activation Header is displayed
+2020-05-14 18:56:07 - [Screenshot:] Passed_verifyKYC_happyPath_140520185607.png
+2020-05-14 18:56:08 - [Log:] chrome instance closed.
+2020-05-14 19:00:54 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 19:00:55 - [Screenshot:] Passed_initialize_140520190055.png
+2020-05-14 19:00:58 - [Log:] chrome instance closed.
+2020-05-14 19:00:58 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 19:00:47
+2020-05-14 19:00:58 - [Test Script Name] Test for now
+2020-05-14 19:00:58 - [Test Script Description] Test for now
+2020-05-14 19:01:01 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 19:01:03 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 19:01:06 - [PASSED] Sign In Button is clicked
+2020-05-14 19:01:10 - [PASSED] Account Activation Header is displayed
+2020-05-14 19:01:13 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 19:01:15 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 19:01:20 - [PASSED] Account Activation Header is displayed
+2020-05-14 19:01:50 - [Screenshot:] Passed_verifyKYC_happyPath_140520190150.png
+2020-05-14 19:01:51 - [Log:] chrome instance closed.
+2020-05-14 19:04:49 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 19:04:50 - [Screenshot:] Passed_initialize_140520190450.png
+2020-05-14 19:04:53 - [Log:] chrome instance closed.
+2020-05-14 19:04:53 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 19:04:43
+2020-05-14 19:04:53 - [Test Script Name] Test for now
+2020-05-14 19:04:53 - [Test Script Description] Test for now
+2020-05-14 19:04:55 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 19:04:58 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 19:05:00 - [PASSED] Sign In Button is clicked
+2020-05-14 19:05:05 - [PASSED] Account Activation Header is displayed
+2020-05-14 19:05:08 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 19:05:10 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 19:05:12 - [PASSED] File upload test has been uploaded
+2020-05-14 19:05:15 - [PASSED] Account Activation Header is displayed
+2020-05-14 19:05:45 - [Screenshot:] Passed_verifyKYC_happyPath_140520190545.png
+2020-05-14 19:05:46 - [Log:] chrome instance closed.
+2020-05-14 19:08:38 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 19:08:39 - [Screenshot:] Passed_initialize_140520190839.png
+2020-05-14 19:08:43 - [Log:] chrome instance closed.
+2020-05-14 19:08:43 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 19:08:32
+2020-05-14 19:08:43 - [Test Script Name] Test for now
+2020-05-14 19:08:43 - [Test Script Description] Test for now
+2020-05-14 19:08:45 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 19:08:48 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 19:08:50 - [PASSED] Sign In Button is clicked
+2020-05-14 19:08:55 - [PASSED] Account Activation Header is displayed
+2020-05-14 19:08:58 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 19:09:00 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 19:09:02 - [PASSED] PDF Doc has been uploaded
+2020-05-14 19:09:04 - [PASSED] Account Activation Header is displayed
+2020-05-14 19:09:05 - [Screenshot:] Passed_verifyKYC_happyPath_140520190905.png
+2020-05-14 19:09:06 - [Log:] chrome instance closed.
+2020-05-14 22:54:59 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 22:54:59 - [Screenshot:] Passed_initialize_140520225459.png
+2020-05-14 22:55:03 - [Log:] chrome instance closed.
+2020-05-14 22:55:03 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 22:54:52
+2020-05-14 22:55:03 - [Test Script Name] Verify KYC steps are working
+2020-05-14 22:55:03 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 22:55:06 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 22:55:08 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 22:55:10 - [PASSED] Sign In Button is clicked
+2020-05-14 22:55:17 - [PASSED] Account Activation Header is displayed
+2020-05-14 22:55:20 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 22:55:22 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 22:55:25 - [PASSED] Address First Line TextBox is populated with 'Address Line 1'
+2020-05-14 22:55:27 - [PASSED] Address Second Line TextBox is populated with 'Address Line 2'
+2020-05-14 22:55:30 - [PASSED] City TextBox is populated with 'City Value'
+2020-05-14 22:55:32 - [Log:] Element should have been "select" but was "div"
+Build info
+2020-05-14 22:55:34 - [Log:] Element should have been "select" but was "div"
+Build info
+2020-05-14 22:55:36 - [Log:] Element should have been "select" but was "div"
+Build info
+2020-05-14 22:55:41 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 22:59:17 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 22:59:18 - [Screenshot:] Passed_initialize_140520225918.png
+2020-05-14 22:59:34 - [Log:] chrome instance closed.
+2020-05-14 22:59:34 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 22:59:11
+2020-05-14 22:59:34 - [Test Script Name] Verify KYC steps are working
+2020-05-14 22:59:34 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 22:59:37 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 22:59:39 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 22:59:42 - [PASSED] Sign In Button is clicked
+2020-05-14 22:59:48 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:00:01 - [FAILED] Expected: Province ListBox is displayed
+2020-05-14 23:00:01 - [FAILED] Actual: Province ListBox is NOT displayed
+2020-05-14 23:00:01 - [Screenshot:] Failed_verifyKYC_happyPath_140520230001.png
+2020-05-14 23:00:02 - [Log:] chrome instance closed.
+2020-05-14 23:01:47 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:01:47 - [Screenshot:] Passed_initialize_140520230147.png
+2020-05-14 23:01:51 - [Log:] chrome instance closed.
+2020-05-14 23:01:51 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:01:40
+2020-05-14 23:01:51 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:01:51 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:01:53 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:01:56 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:01:58 - [PASSED] Sign In Button is clicked
+2020-05-14 23:02:04 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:02:06 - [PASSED] Province Field is clicked
+2020-05-14 23:02:08 - [Log:] Element should have been "select" but was "ul"
+Build info
+2020-05-14 23:02:11 - [Log:] Element should have been "select" but was "ul"
+Build info
+2020-05-14 23:04:35 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:04:36 - [Screenshot:] Passed_initialize_140520230436.png
+2020-05-14 23:04:39 - [Log:] chrome instance closed.
+2020-05-14 23:04:39 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:04:29
+2020-05-14 23:04:39 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:04:39 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:04:42 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:04:44 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:04:47 - [PASSED] Sign In Button is clicked
+2020-05-14 23:04:53 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:04:55 - [PASSED] Province Field is clicked
+2020-05-14 23:05:07 - [FAILED] Expected: Province Button is displayed
+2020-05-14 23:05:07 - [FAILED] Actual: Province Button is NOT displayed
+2020-05-14 23:05:08 - [Screenshot:] Failed_verifyKYC_happyPath_140520230508.png
+2020-05-14 23:05:09 - [Log:] chrome instance closed.
+2020-05-14 23:05:29 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:05:30 - [Screenshot:] Passed_initialize_140520230530.png
+2020-05-14 23:05:32 - [Log:] chrome instance closed.
+2020-05-14 23:05:33 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:05:23
+2020-05-14 23:05:33 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:05:33 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:05:35 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:05:38 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:05:40 - [PASSED] Sign In Button is clicked
+2020-05-14 23:05:45 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:05:48 - [PASSED] Province Field is clicked
+2020-05-14 23:05:50 - [PASSED] Province Button is clicked
+2020-05-14 23:05:53 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:05:55 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:05:56 - [Screenshot:] Passed_verifyKYC_happyPath_140520230556.png
+2020-05-14 23:05:56 - [Log:] chrome instance closed.
+2020-05-14 23:14:22 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:14:23 - [Screenshot:] Passed_initialize_140520231423.png
+2020-05-14 23:14:26 - [Log:] chrome instance closed.
+2020-05-14 23:14:26 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:14:16
+2020-05-14 23:14:26 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:14:26 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:14:29 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:14:31 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:14:34 - [PASSED] Sign In Button is clicked
+2020-05-14 23:14:39 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:14:41 - [PASSED] Province Field is clicked
+2020-05-14 23:14:44 - [PASSED] Province List is clicked
+2020-05-14 23:14:46 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:14:48 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:14:49 - [Screenshot:] Passed_verifyKYC_happyPath_140520231449.png
+2020-05-14 23:14:50 - [Log:] chrome instance closed.
+2020-05-14 23:25:33 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:25:34 - [Screenshot:] Passed_initialize_140520232534.png
+2020-05-14 23:25:37 - [Log:] chrome instance closed.
+2020-05-14 23:25:37 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:25:27
+2020-05-14 23:25:37 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:25:37 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:25:39 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:25:42 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:25:44 - [PASSED] Sign In Button is clicked
+2020-05-14 23:25:50 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:25:52 - [PASSED] Province Field is clicked
+2020-05-14 23:25:53 - [Screenshot:] Failed_verifyKYC_happyPath_140520232553.png
+2020-05-14 23:25:54 - [Log:] chrome instance closed.
+2020-05-14 23:27:17 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:27:18 - [Screenshot:] Passed_initialize_140520232718.png
+2020-05-14 23:27:21 - [Log:] chrome instance closed.
+2020-05-14 23:27:21 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:27:11
+2020-05-14 23:27:21 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:27:21 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:27:23 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:27:26 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:27:28 - [PASSED] Sign In Button is clicked
+2020-05-14 23:27:33 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:27:35 - [PASSED] Province Field is clicked
+2020-05-14 23:27:36 - [Screenshot:] Failed_verifyKYC_happyPath_140520232736.png
+2020-05-14 23:29:30 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:29:31 - [Screenshot:] Passed_initialize_140520232931.png
+2020-05-14 23:29:36 - [Log:] chrome instance closed.
+2020-05-14 23:29:36 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:29:24
+2020-05-14 23:29:36 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:29:36 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:29:38 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:29:41 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:29:43 - [PASSED] Sign In Button is clicked
+2020-05-14 23:29:50 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:29:53 - [PASSED] Province Field is clicked
+2020-05-14 23:30:06 - [Screenshot:] Failed_verifyKYC_happyPath_140520233006.png
+2020-05-14 23:30:07 - [Log:] chrome instance closed.
+2020-05-14 23:31:19 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:31:20 - [Screenshot:] Passed_initialize_140520233120.png
+2020-05-14 23:31:26 - [Log:] chrome instance closed.
+2020-05-14 23:31:26 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:31:13
+2020-05-14 23:31:26 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:31:26 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:31:28 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:31:31 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:31:33 - [PASSED] Sign In Button is clicked
+2020-05-14 23:31:39 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:31:41 - [PASSED] Province Field is clicked
+2020-05-14 23:31:55 - [Screenshot:] Failed_verifyKYC_happyPath_140520233155.png
+2020-05-14 23:31:56 - [Log:] chrome instance closed.
+2020-05-14 23:33:03 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:33:04 - [Screenshot:] Passed_initialize_140520233304.png
+2020-05-14 23:33:08 - [Log:] chrome instance closed.
+2020-05-14 23:33:08 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:32:56
+2020-05-14 23:33:08 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:33:08 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:33:11 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:33:14 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:33:16 - [PASSED] Sign In Button is clicked
+2020-05-14 23:33:22 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:33:25 - [PASSED] Province Field is clicked
+2020-05-14 23:33:57 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:33:58 - [Screenshot:] Passed_initialize_140520233358.png
+2020-05-14 23:34:02 - [Log:] chrome instance closed.
+2020-05-14 23:34:02 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:33:51
+2020-05-14 23:34:02 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:34:02 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:34:05 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:34:07 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:34:10 - [PASSED] Sign In Button is clicked
+2020-05-14 23:34:17 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:34:20 - [PASSED] Province Field is clicked
+2020-05-14 23:34:22 - [PASSED] Albay is clicked
+2020-05-14 23:34:24 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:34:27 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:34:27 - [Screenshot:] Passed_verifyKYC_happyPath_140520233427.png
+2020-05-14 23:39:17 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:39:17 - [Screenshot:] Passed_initialize_140520233917.png
+2020-05-14 23:39:21 - [Log:] chrome instance closed.
+2020-05-14 23:39:21 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:39:10
+2020-05-14 23:39:21 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:39:21 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:39:23 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:39:26 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:39:28 - [PASSED] Sign In Button is clicked
+2020-05-14 23:39:33 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:39:35 - [PASSED] Province Field is clicked
+2020-05-14 23:39:40 - [PASSED] Metro Manila
+Abra
+Agusan del Norte
+Agusan del Sur
+Aklan
+Albay
+Antique
+Apayao
+Aurora
+Basilan
+Bataan
+Batanes
+Batangas
+Benguet
+Biliran
+Bohol
+Bukidnon
+Bulacan
+Cagayan
+Camarines Norte
+Camarines Sur
+Camiguin
+Capiz
+Catanduanes
+Cavite
+Cebu
+Compostela Valley (Davao de Oro)[b]
+Cotabato
+Davao del Norte
+Davao del Sur
+Davao Occidental
+Davao Oriental
+Dinagat Islands
+Eastern Samar
+Guimaras
+Ifugao
+Ilocos Norte
+Ilocos Sur
+Iloilo
+Isabela
+Kalinga
+La Union
+Laguna
+Lanao del Norte
+Lanao del Sur
+Leyte
+Maguindanao
+Marinduque
+Masbate
+Mindoro Occidental
+Mindoro Oriental
+Misamis Occidental
+Misamis Oriental
+Mountain Province
+Negros Occidental
+Negros Oriental
+Northern Samar
+Nueva Ecija
+Nueva Vizcaya
+Palawan
+Pampanga
+Pangasinan
+Quezon
+Quirino
+Rizal
+Romblon
+Samar (Western Samar)
+Sarangani
+Siquijor
+Sorsogon
+South Cotabato
+Southern Leyte
+Sultan Kudarat
+Sulu
+Surigao del Norte
+Surigao del Sur
+Tarlac
+Tawi-Tawi
+Zambales
+Zamboanga del Norte
+Zamboanga del Sur
+Zamboanga Sibugay is clicked
+2020-05-14 23:39:42 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:39:44 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:39:45 - [Screenshot:] Passed_verifyKYC_happyPath_140520233945.png
+2020-05-14 23:39:46 - [Log:] chrome instance closed.
+2020-05-14 23:42:02 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:42:02 - [Screenshot:] Passed_initialize_140520234202.png
+2020-05-14 23:42:05 - [Log:] chrome instance closed.
+2020-05-14 23:42:06 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:41:55
+2020-05-14 23:42:06 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:42:06 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:42:08 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:42:11 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:42:13 - [PASSED] Sign In Button is clicked
+2020-05-14 23:42:20 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:42:23 - [PASSED] Province Field is clicked
+2020-05-14 23:42:25 - [PASSED] Albay is clicked
+2020-05-14 23:42:27 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:42:30 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:42:30 - [Screenshot:] Passed_verifyKYC_happyPath_140520234230.png
+2020-05-14 23:42:31 - [Log:] chrome instance closed.
+2020-05-14 23:46:18 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:46:19 - [Screenshot:] Passed_initialize_140520234619.png
+2020-05-14 23:46:24 - [Log:] chrome instance closed.
+2020-05-14 23:46:24 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:46:12
+2020-05-14 23:46:24 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:46:24 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:46:27 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:46:29 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:46:31 - [PASSED] Sign In Button is clicked
+2020-05-14 23:46:37 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:46:40 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 23:46:42 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 23:46:45 - [PASSED] Address First Line TextBox is populated with 'Address Line 1'
+2020-05-14 23:46:47 - [PASSED] Address Second Line TextBox is populated with 'Address Line 2'
+2020-05-14 23:46:49 - [PASSED] City TextBox is populated with 'City Value'
+2020-05-14 23:46:52 - [PASSED] Province Field is clicked
+2020-05-14 23:46:54 - [PASSED] Albay is clicked
+2020-05-14 23:46:57 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:46:59 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:47:01 - [PASSED] Continue to business information Button is clicked
+2020-05-14 23:47:02 - [Screenshot:] Passed_verifyKYC_happyPath_140520234702.png
+2020-05-14 23:47:03 - [Log:] chrome instance closed.
+2020-05-14 23:48:01 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-14 23:48:02 - [Screenshot:] Passed_initialize_140520234802.png
+2020-05-14 23:48:06 - [Log:] chrome instance closed.
+2020-05-14 23:48:06 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/14 23:47:55
+2020-05-14 23:48:06 - [Test Script Name] Verify KYC steps are working
+2020-05-14 23:48:06 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-14 23:48:08 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-14 23:48:11 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-14 23:48:13 - [PASSED] Sign In Button is clicked
+2020-05-14 23:48:20 - [PASSED] Account Activation Header is displayed
+2020-05-14 23:48:22 - [PASSED] Date Picker Box Button is clicked
+2020-05-14 23:48:24 - [PASSED] Date Picker Input TextBox is populated with '2002-05-14'
+2020-05-14 23:48:27 - [PASSED] Address First Line TextBox is populated with 'Address Line 1'
+2020-05-14 23:48:29 - [PASSED] Address Second Line TextBox is populated with 'Address Line 2'
+2020-05-14 23:48:32 - [PASSED] City TextBox is populated with 'City Value'
+2020-05-14 23:48:34 - [PASSED] Province Field is clicked
+2020-05-14 23:48:37 - [PASSED] Albay is clicked
+2020-05-14 23:48:39 - [PASSED] Zip Code TextBox is populated with '999'
+2020-05-14 23:48:41 - [PASSED] PDF Doc has been uploaded
+2020-05-14 23:48:44 - [PASSED] Continue to business information Button is clicked
+2020-05-14 23:48:44 - [Screenshot:] Passed_verifyKYC_happyPath_140520234844.png
+2020-05-14 23:48:45 - [Log:] chrome instance closed.

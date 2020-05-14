@@ -17,6 +17,7 @@ public class PaymongoLoginPage {
         private static TextBox _passwordBox = new TextBox("Password Input",By.xpath("//input[@placeholder='Password']"));
         private static Link _forgotPasswordLink = new Link("Forgot Password", By.xpath("//a[@class='forgot-password-link']"));
         private static Link _signUpLink = new Link("Signup Text", By.xpath("//a[@class='sign-up']"));
+        private static Button _signInButton = new Button("Sign In", By.xpath("//button[@class='ant-btn login-form-button button ant-btn-primary']"));
 
         public static void verifyPaymongoLogoPresent(){
             _paymongoLogo.verifyDisplayed();
@@ -48,6 +49,10 @@ public class PaymongoLoginPage {
 
         public static void clickSignUpLink(){
             _signUpLink.click();
+        }
+
+        public static void clickSignIn(){
+            _signInButton.click();
         }
     }
 
