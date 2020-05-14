@@ -76,6 +76,7 @@ public class PaymongoSignUp_HappyPath extends Browser {
         PaymongoLoginPage.SignInFormSection.populateEmail("WJktjlnECV@doms.paymongo.net");
         PaymongoLoginPage.SignInFormSection.populatePassword("Password123");
         PaymongoLoginPage.SignInFormSection.clickSignIn();
+        Thread.sleep(8000);
 
         //getDriver().get("https://dashboard.paymongo.com/activate"); comment out for now to just log-in instead of signup
         PaymongoActivationSteps.GeneralElements.verifyAccountActivationHeader();
@@ -90,7 +91,7 @@ public class PaymongoSignUp_HappyPath extends Browser {
         PaymongoActivationSteps.KYCStep1.idDocsUpload(System.getProperty("user.dir") + "/testfiles/TestPDF.pdf");
         Log.setLog("Wait for 10 seconds to ensure that upload is completed.");
         Thread.sleep(10000);
-        PaymongoActivationSteps.KYCStep1.clickContinue();
+        //PaymongoActivationSteps.KYCStep1.clickContinue();
 
         //Populate KYC Step 2 - Individual
 

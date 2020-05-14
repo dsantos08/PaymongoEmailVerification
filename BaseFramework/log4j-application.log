@@ -1771,3 +1771,29 @@ Zamboanga Sibugay is clicked
 2020-05-14 23:48:44 - [PASSED] Continue to business information Button is clicked
 2020-05-14 23:48:44 - [Screenshot:] Passed_verifyKYC_happyPath_140520234844.png
 2020-05-14 23:48:45 - [Log:] chrome instance closed.
+2020-05-15 00:39:42 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-15 00:39:43 - [Screenshot:] Passed_initialize_150520003943.png
+2020-05-15 00:39:48 - [Log:] chrome instance closed.
+2020-05-15 00:39:48 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/15 00:39:36
+2020-05-15 00:39:48 - [Test Script Name] Verify KYC steps are working
+2020-05-15 00:39:48 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-15 00:39:51 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-15 00:39:54 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-15 00:39:56 - [PASSED] Sign In Button is clicked
+2020-05-15 00:40:08 - [FAILED] Expected: Account Activation Header Element is displayed
+2020-05-15 00:40:08 - [FAILED] Actual: Account Activation Header is NOT displayed
+2020-05-15 00:40:09 - [Screenshot:] Failed_verifyKYC_happyPath_150520004009.png
+2020-05-15 00:40:10 - [Log:] chrome instance closed.
+2020-05-15 00:41:25 - [Log:] Start automation test in chrome with Dimensions: (1600, 1200)
+2020-05-15 00:41:25 - [Screenshot:] Passed_initialize_150520004125.png
+2020-05-15 00:41:29 - [Log:] chrome instance closed.
+2020-05-15 00:41:30 - [Story Name] Verify KYC 2.0 - Happy Path 2020/05/15 00:41:18
+2020-05-15 00:41:30 - [Test Script Name] Verify KYC steps are working
+2020-05-15 00:41:30 - [Test Script Description] This goes through the ideal scenario of completing the KYC
+2020-05-15 00:41:32 - [PASSED] Email Address Input TextBox is populated with 'WJktjlnECV@doms.paymongo.net'
+2020-05-15 00:41:35 - [PASSED] Password Input TextBox is populated with 'Password123'
+2020-05-15 00:41:37 - [PASSED] Sign In Button is clicked
+2020-05-15 00:41:58 - [FAILED] Expected: Account Activation Header Element is displayed
+2020-05-15 00:41:58 - [FAILED] Actual: Account Activation Header is NOT displayed
+2020-05-15 00:41:58 - [Screenshot:] Failed_verifyKYC_happyPath_150520004158.png
+2020-05-15 00:41:59 - [Log:] chrome instance closed.
